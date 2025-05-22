@@ -1,4 +1,4 @@
-# 1. Know how to build a scraper:<br>
+# 1. Know how to build a scraper<br>
 Scraping List: (rolling basis with scheduler)<br>
 Live SEC filings<br>
 Live EBA Filings<br>
