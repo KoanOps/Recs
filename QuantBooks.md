@@ -22,7 +22,7 @@ Hastie - The Elements of Statistical Learning Data Mining, Inference, and Predic
 Casella - Statistical Inference
 
 # Bayesian:
-Hoff - A First Course in Bayesian Statistical Methods
+Hoff - A First Course in Bayesian Statistical Methods<br>
 Lee - Bayesian Statistics: An Introduction<br>
 Greenberg - Introduction to Bayesian Econometrics<br>
 Gelman - Bayesian Data Analysis<br>
