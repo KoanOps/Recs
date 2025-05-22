@@ -11,3 +11,4 @@ Our recs: <br>
 More recs:<br>
 [CS Books](https://github.com/KoanOps/BookRecs/blob/master/CSBooks.md)<br>
 [Other Books](https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
+[Ops](https://github.com/KoanOps/BookRecs/blob/master/Ops.md)<br>
