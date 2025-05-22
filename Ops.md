@@ -1,3 +1,5 @@
+# Make a stochastic local volatility
+
 # 1. Know how to build a scraper<br>
 Scraping List: (rolling basis with scheduler)<br>
 Live SEC filings<br>
@@ -10,7 +12,7 @@ worldgovernmentbonds (+ Another FI to reconcile ie markets.FT.com/data/indicies)
 OECD import/export products<br>
 VLCC (ships)<br>
 
-ETF rebalancing (iShares/Wisdomtree)<br>
+ETF rebalancing (i.e. iShares/Wisdomtree)<br>
 Finviz (insider buy/sell)<br>
 Unusual activity sites<br>
 
