@@ -1,3 +1,5 @@
+# List in progress
+
 # Syntax
 https://en.wikipedia.org/wiki/Backus–Naur_form
 ABNF/EBNF
@@ -20,3 +22,9 @@ McNamara - Technical Aspects of Data Communications
 
 # x86
 Shanley - Protected Mode Software Architecture
+
+# Algorithms
+Jelani Nelson's course (Sparse Fourier Transform)
+
+# ML
+Bishop - Pattern Recognitions & Machine Learning
