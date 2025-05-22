@@ -10,5 +10,5 @@ Our recommendations: <br>
 [Interview Resources](https://github.com/KoanOps/BookRecs/blob/master/InterviewResources.md)<br>
 <br>
 My recommendations:<br>
-[Software Books] (https://github.com/KoanOps/BookRecs/blob/master/SoftwareBooks.md)<br>
-[Other Books] (https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
+[Software Books](https://github.com/KoanOps/BookRecs/blob/master/SoftwareBooks.md)<br>
+[Other Books](https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
