@@ -3,13 +3,13 @@ https://en.wikipedia.org/wiki/Backus–Naur_form
 ABNF/EBNF
 
 # Programming
-Knuth - The Art of Computer Programming (TAOCP)
-Kernighan - The C Programming Language 2nd ed
+Knuth - The Art of Computer Programming (TAOCP)<br>
+Kernighan - The C Programming Language 2nd ed<br>
 
 # Systems Programming 
-Schimmel - Unix Systems for Modern Architectures
-Vahalla - Unix Internals The New Frontiers
-Systems Engineering books
+Schimmel - Unix Systems for Modern Architectures<br>
+Vahalla - Unix Internals The New Frontiers<br>
+Systems Engineering books<br>
 
 # Protocol
 Stevens - TCP/IP Illustrated: Volume 1 The Protocols
