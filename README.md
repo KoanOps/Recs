@@ -1,4 +1,3 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKoanOps%2FBooks)
 # Books, Papers and GitHub repos relevant to Quantitative Finance
 
 If you feel anything is missing please make a pull request.
