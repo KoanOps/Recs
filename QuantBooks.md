@@ -3,9 +3,9 @@
 Spivak - Calculus
 
 # Probability Theory:
-Feller - An Introduction to Probability Theory and Its Applications (I/II/III)
-Klenke - Probability Theory - A Comprehensive Course
-Billingsley - Probability and Measure
+Feller - An Introduction to Probability Theory and Its Applications (I/II/III) <br>
+Klenke - Probability Theory - A Comprehensive Course <br>
+Billingsley - Probability and Measure <br>
 
 # Extreme Value Theory:
 Leadbetter - Extremes and Random Properties of Random Sequences and Processes
@@ -23,24 +23,24 @@ Hastie - The Elements of Statistical Learning Data Mining, Inference, and Predic
 Casella - Statistical Inference
 
 # Bayesian:
-Lee - Bayesian Statistics: An Introduction
-Greenberg - Introduction to Bayesian Econometrics
-Gelman - Bayesian Data Analysis
+Lee - Bayesian Statistics: An Introduction<br>
+Greenberg - Introduction to Bayesian Econometrics<br>
+Gelman - Bayesian Data Analysis<br>
 
 # Combinatorics/Graph Theory:
 Murty - A First Course in Graph Theory and Combinatorics
 
 # Qualitative Theory of the Differential Equations:
-Braun - Differential Equations and Their Applications.
-Hirsch - Differential Equations, Dynamical Systems, and Linear Algebra
+Braun - Differential Equations and Their Applications.<br>
+Hirsch - Differential Equations, Dynamical Systems, and Linear Algebra<br>
 
 # Stochastic Processes:
-Papoulis - Random Variables and Stochastic Processes
-Kijima - Stochastic Processes with Applications to Finance
+Papoulis - Random Variables and Stochastic Processes<br>
+Kijima - Stochastic Processes with Applications to Finance<br>
 
 # Stochastic Calculus:
-Stochastic Calculus of Variations in Mathematical Finance - Malliavin and Thalmaier
-Stochastic Calculus for Finance (I & II) - Shreve
+Stochastic Calculus of Variations in Mathematical Finance - Malliavin and Thalmaier<br>
+Stochastic Calculus for Finance (I & II) - Shreve<br>
 
 # Complex Analysis:
 Remmert - Theory of Complex Functions
@@ -49,8 +49,8 @@ Remmert - Theory of Complex Functions
 Klugman - Loss Models From Data to Decisions
 
 # Measure Theory/Lebesgue Integration:
-Taylor - An Introduction to Measure Theory and Integration
-Halmos - Measure Theory
+Taylor - An Introduction to Measure Theory and Integration<br>
+Halmos - Measure Theory<br>
 
 # Game Theory:
 Tirole - Game theory 
@@ -68,14 +68,14 @@ Hafner - Stochastic Implied Volatility
 Passarelli - Trading Option Greeks
 
 # Financial Derivatives:
-Blyth - Introduction to Quantitative Finance
-Hull - Options, Futures and Other Derivatives
+Blyth - Introduction to Quantitative Finance<br>
+Hull - Options, Futures and Other Derivatives<br>
 
 # Ross's recs:
-Financial Calculus - Baxter
-Applied Econometrics - Asteriou and Hall
-https://www.risk.net/
-https://plato.stanford.edu/entries/epistemology-bayesian/
+Financial Calculus - Baxter<br>
+Applied Econometrics - Asteriou and Hall<br>
+https://www.risk.net/<br>
+https://plato.stanford.edu/entries/epistemology-bayesian/<br>
 
 # C++ for Financial Maths
 https://nms.kcl.ac.uk/john.armstrong/courses/courses.html
