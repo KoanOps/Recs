@@ -10,5 +10,5 @@ Our recs: <br>
 [Interview Resources](https://github.com/KoanOps/BookRecs/blob/master/InterviewResources.md)<br>
 <br>
 More recs:<br>
-[Software Books](https://github.com/KoanOps/BookRecs/blob/master/SoftwareBooks.md)<br>
+[CS Books](https://github.com/KoanOps/BookRecs/blob/master/SoftwareBooks.md)<br>
 [Other Books](https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
