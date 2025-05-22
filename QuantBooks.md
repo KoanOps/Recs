@@ -16,7 +16,8 @@ Hoffman - Linear Algebra
 Artin - Algebra
 
 # Statistical Methods in Data Mining:
-Hastie - The Elements of Statistical Learning Data Mining, Inference, and Prediction
+Hastie - Intro to Stat Machine Learning
+Hastie - The Elements of Statistical Learning - Data Mining, Inference, and Prediction
 
 # Statistical Inference:
 Casella - Statistical Inference
