@@ -71,7 +71,7 @@ Passarelli - Trading Option Greeks
 Blyth - Introduction to Quantitative Finance
 Hull - Options, Futures and Other Derivatives
 
-# Ross's Recommendations:
+# Ross's recs:
 Financial Calculus - Baxter
 Applied Econometrics - Asteriou and Hall
 https://www.risk.net/
