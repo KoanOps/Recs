@@ -38,5 +38,5 @@ Sutton - Reinforcement Learning: An Introduction
 # DL
 Goodfellow - Deep Learning
 
-# Infomation Theory
+# Information Theory
 Cover - Elements of Information Theory
