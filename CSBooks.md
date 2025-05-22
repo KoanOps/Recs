@@ -31,3 +31,12 @@ Jelani Nelson's course<br>
 # ML
 Mitchell - Machine Learning<br>
 Bishop - Pattern Recognitions & Machine Learning<br>
+
+# RL
+Sutton - Reinforcement Learning: An Introduction
+
+# DL
+Goodfellow - Deep Learning
+
+# Infomation Theory
+Cover - Elements of Information Theory
