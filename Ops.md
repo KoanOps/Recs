@@ -1,6 +1,6 @@
 # Make a robust stochastic local volatility model
 
-# 1. Know how to build a scraper<br>
+# Know how to build a scraper<br>
 Scraping List: (rolling basis with scheduler)<br>
 Live SEC filings<br>
 Live EBA Filings<br>
@@ -27,11 +27,10 @@ Coinmarketcap<br>
 Stocktwits<br>
 NLP scraper to news<br>
 
-# 2. Code corr matrix - rolling vector t+1
+# Code corr matrix - rolling vector t+1
 
-# 3. Make db, collect data
+# Make db, collect data
 
-# 4. Broker API
+# Broker API
 Suggest IBKR or prime brokers
-
 # 5 Competent friends for sanity check<br>
