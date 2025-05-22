@@ -4,11 +4,11 @@
 If you feel anything is missing please make a pull request.
 
 Our recommendations: <br>
-[Quant Books](https://github.com/KoanOps/BookRecs/blob/master/QuantBooks.md)
-[Papers](https://github.com/KoanOps/BookRecs/blob/master/Papers.md)
-[Interesting GitHub Repositories](https://github.com/KoanOps/BookRecs/blob/master/GitHub_Repos.md)
-[Interview Resources](https://github.com/KoanOps/BookRecs/blob/master/InterviewResources.md)
-
-My recommendations:
-[Software Books] (https://github.com/KoanOps/BookRecs/blob/master/SoftwareBooks.md)
-[Other Books] (https://github.com/KoanOps/BookRecs/blob/master/Books.md)
+[Quant Books](https://github.com/KoanOps/BookRecs/blob/master/QuantBooks.md)<br>
+[Papers](https://github.com/KoanOps/BookRecs/blob/master/Papers.md)<br>
+[Interesting GitHub Repositories](https://github.com/KoanOps/BookRecs/blob/master/GitHub_Repos.md)<br>
+[Interview Resources](https://github.com/KoanOps/BookRecs/blob/master/InterviewResources.md)<br>
+<br>
+My recommendations:<br>
+[Software Books] (https://github.com/KoanOps/BookRecs/blob/master/SoftwareBooks.md)<br>
+[Other Books] (https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
