@@ -10,12 +10,11 @@ Billingsley - Probability and Measure
 # Extreme Value Theory:
 Leadbetter - Extremes and Random Properties of Random Sequences and Processes
 
-# Algebra
-Artin - Algebra
-
 # Linear Alegbra
 Hoffman - Linear Algebra
-Axler - Linear Algebra Done Right
+
+# Algebra
+Artin - Algebra
 
 # Statistical Methods in Data Mining:
 Hastie - The Elements of Statistical Learning Data Mining, Inference, and Prediction
