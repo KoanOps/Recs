@@ -1,4 +1,3 @@
-
 # Calculus/Real Analysis:
 Spivak - Calculus
 
