@@ -2,7 +2,7 @@
 Spivak - Calculus
 
 # Probability Theory:
-Feller - An Introduction to Probability Theory and Its Applications (I/II/III) <br>
+Feller - An Introduction to Probability Theory and Its Applications (I/II/III)<br>
 Klenke - Probability Theory - A Comprehensive Course <br>
 Billingsley - Probability and Measure <br>
 
@@ -39,8 +39,8 @@ Papoulis - Random Variables and Stochastic Processes<br>
 Kijima - Stochastic Processes with Applications to Finance<br>
 
 # Stochastic Calculus:
-Stochastic Calculus of Variations in Mathematical Finance - Malliavin and Thalmaier<br>
-Stochastic Calculus for Finance (I & II) - Shreve<br>
+Malliavin and Thalmaier - Stochastic Calculus of Variations in Mathematical Finance<br>
+Shreve - Stochastic Calculus for Finance (I/II)<br>
 
 # Complex Analysis:
 Remmert - Theory of Complex Functions
