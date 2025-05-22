@@ -33,4 +33,5 @@ NLP scraper to news<br>
 
 # Broker API
 Suggest IBKR or prime brokers
-# 5 Competent friends for sanity check<br>
+
+# Competent friends for sanity check
