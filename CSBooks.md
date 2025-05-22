@@ -24,10 +24,10 @@ McNamara - Technical Aspects of Data Communications
 Shanley - Protected Mode Software Architecture
 
 # Algorithms
-Dasgupta, Papadimitriou, Vazira - Algorithms
-Kleinberg - Algorithm Design
-Jelani Nelson's course
+Dasgupta, Papadimitriou, Vazira - Algorithms<br>
+Kleinberg - Algorithm Design<br>
+Jelani Nelson's course<br>
 
 # ML
-Mitchell - Machine Learning
-Bishop - Pattern Recognitions & Machine Learning
+Mitchell - Machine Learning<br>
+Bishop - Pattern Recognitions & Machine Learning<br>
