@@ -24,7 +24,10 @@ McNamara - Technical Aspects of Data Communications
 Shanley - Protected Mode Software Architecture
 
 # Algorithms
-Jelani Nelson's course (Sparse Fourier Transform)
+Dasgupta, Papadimitriou, Vazira - Algorithms
+Kleinberg - Algorithm Design
+Jelani Nelson's course
 
 # ML
+Mitchell - Machine Learning
 Bishop - Pattern Recognitions & Machine Learning
