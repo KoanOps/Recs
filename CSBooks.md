@@ -5,6 +5,7 @@ ABNF/EBNF
 # Programming
 Knuth - The Art of Computer Programming (TAOCP)<br>
 Kernighan - The C Programming Language 2nd ed<br>
+Convert your project from another language into C 
 
 # Systems Programming 
 Schimmel - Unix Systems for Modern Architectures<br>
