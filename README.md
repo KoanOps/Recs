@@ -22,10 +22,10 @@ Our quant finance recs: <br>
 
 # FAQs<br>
 
-[What is a Vol Box?](https://github.com/KoanOps/BookRecs/blob/master/VolBox.md) <br>
+[What is a Vol Box?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/VolBox.md) <br>
 
-[What models work vs doesn't work?](https://github.com/KoanOps/BookRecs/blob/master/WhatWorks.md) <br>
+[What models work vs doesn't work?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/WhatWorks.md) <br>
 
-[What to avoid like the plague?](https://github.com/KoanOps/BookRecs/blob/master/Plague.md) <br>
+[What to avoid like the plague?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/Plague.md) <br>
 
-[What can't be learned in books?](https://github.com/KoanOps/BookRecs/blob/master/Limits.md) <br>
+[What can't be learned in books?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/Limits.md) <br>
