@@ -9,12 +9,12 @@ Scraping list (rolling basis with scheduler):
 - G10 country regulatory filings (pre-market, post-market, US open)  
 - 5 metrics (cash, debt, profit margin – 3 websites – simple burn-through cash model)  
 - Stock fundamentals / NASDAQ requirements  
-- worldgovernmentbonds + markets.FT.com/data/indices (yield by tenor bucket reconciliation)
+- worldgovernmentbonds.com + markets.ft.com/data/indices (yield by tenor bucket reconciliation)
 
 - OECD import/export products  
 - VLCC (ships)  
 
-- ETF rebalancing (iShares, WisdomTree)  
+- ETF rebalancing (iShares, WisdomTree, etc)  
 - Finviz (insider buy/sell)  
 - Unusual activity sites  
 
