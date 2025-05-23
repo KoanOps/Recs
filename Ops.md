@@ -1,4 +1,5 @@
 # Make a robust stochastic local volatility model
+Many banks use a Bayesian approach with MCMC modeling
 
 # Know how to build a scraper<br>
 Scraping List: (rolling basis with scheduler)<br>
