@@ -26,7 +26,7 @@ Shanley - Protected Mode Software Architecture
 # Algorithms
 Dasgupta, Papadimitriou, Vazira - Algorithms<br>
 Kleinberg - Algorithm Design<br>
-Jelani Nelson's course<br>
+[Jelani Nelson - Advanced Algorithms](https://people.seas.harvard.edu/~cs224/fall14/lec.html)<br>
 
 # ML
 Mitchell - Machine Learning<br>
@@ -34,6 +34,8 @@ Bishop - Pattern Recognitions & Machine Learning<br>
 
 # RL
 Sutton - Reinforcement Learning: An Introduction
+[UCL David Silver Lecture Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+[UCL David Silver - Lecture Slides](https://davidstarsilver.wordpress.com/teaching/)
 
 # DL
 Goodfellow - Deep Learning
