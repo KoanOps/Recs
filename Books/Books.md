@@ -38,7 +38,7 @@
 # Extra Reading
 - **Accounting Standards**: GAAP vs. IFRS
 - **Banking Regulation**: Basel II vs. Basel III (incl. Vasicek model)
-- **Monetary Plumbing**: BIS, Treasury, Federal Reserve operations
+- **Monetary Plumbing**: BIS, Treasury, Federal Reserve
 
 # Short Selling
 - Staley – *The Art of Short Selling*
