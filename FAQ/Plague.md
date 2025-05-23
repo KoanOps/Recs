@@ -41,8 +41,6 @@
 ---
 
 ## Brainless
-
-- Vanguard (and Fidelity, etc.)  
-- BlackRock  
+- Vanguard, BlackRock, and Fidelity
 - PIMCO  
 - Credit Suisse  
