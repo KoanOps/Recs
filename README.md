@@ -14,12 +14,14 @@ More recs on other areas:<br>
 [Ops](https://github.com/KoanOps/BookRecs/blob/master/Ops.md)<br>
 
 # FAQs
-[What is a Vol Box?](https://github.com/KoanOps/BookRecs/blob/master/VolBox.md)<br>
+[What is a Vol Box?](https://github.com/KoanOps/BookRecs/blob/master/VolBox.md)<br
+
+[What models work vs doesn't work?](https://github.com/KoanOps/BookRecs/blob/master/WhatWorks.md)
+
+[What to avoid like the plague?](https://github.com/KoanOps/BookRecs/blob/master/Plague.md)
 
 What can't be learned in books?<br>
 FX hedging <br>
 Counterparty risk<br>
 FI exotics <br>
 Practicioner
-
-[What models work vs doesn't work?](https://github.com/KoanOps/BookRecs/blob/master/WhatWorks.md)
