@@ -20,12 +20,10 @@ Salesforce<br>
 Financial SaaS: <br>
 Murex<br>
 
-Rating agencies: <br>
+Rating/Rating agencies: <br>
 Moody's<br>
 S&P<br>
 Fitch <br>
-
-Ratings: <br>
 ESG <br>
 
 Degrees/Certificates: <br>
