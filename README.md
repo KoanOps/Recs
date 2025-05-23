@@ -1,4 +1,4 @@
-# Resources (Books, Papers, and GitHub repos) for Quantitative Finance
+# Resources for Quantitative Finance
 
 If you feel anything is missing, please make a pull request.
 
