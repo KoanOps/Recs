@@ -7,7 +7,7 @@
 
 - Crack – *Heard on the Street: Quantitative Questions from Wall Street Job Interviews*  
 
-- Ross – Quant Interview Book
+- [Ross – How To Get A Prestigious Interview In Finance](https://www.amazon.com/How-Succeed-Prestigious-Interviews-Interview-ebook/dp/B0DTW1NWM5/)
 
 ---
 
