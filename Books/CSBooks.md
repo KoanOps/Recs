@@ -33,7 +33,7 @@
 
 # Machine Learning
 
-## Core ML
+## Classical Machine Learning
 - Mitchell – *Machine Learning*
 - Bishop – *Pattern Recognition and Machine Learning*
 
