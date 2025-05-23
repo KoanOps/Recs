@@ -1,33 +1,35 @@
 # Fundamental Analysis
-- Any Intro to Accounting – for the "language" of financials
-- Graham – *Security Analysis*, 2nd ed ("Deep Value/net-nets")
-- [Berkshire Hathaway Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) ("Cigar Butt" → "Quality/Moats")
-- SEC Filings – start with 10-Q/10-Ks (Basics)
-- Greenblatt – *You Can Be A Stock Market Genius* (Spinoffs, Special Situations)
 
-# Fixed Income
+## Classic Value Investing
+- Any Intro to Accounting text – only for "language" of financials
+- Graham – *Security Analysis*, 2nd ed
+- [Berkshire Hathaway Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) ("Cigar Butt/net-nets" → "Quality/Moats")
+- SEC Filings – start with 10-Q/10-Ks
+
+## Special Situations / Spinoffs
+- Greenblatt – *You Can Be A Stock Market Genius* 
+
+## Fixed Income
 - Fabozzi – *The Handbook of Fixed Income Securities*
 
 # Short Selling
 - Staley – *The Art of Short Selling*
 
-# Philosophy / Psychology
+# Thinking
+## Philosophy / Psychology
 - Dalio – *Principles*
 - Kaufman – *Poor Charlie's Almanack*
 - Kahneman – *Thinking, Fast and Slow*
 - Thaler – *Nudge*
 
-# History
+## History
 - Landes – *The Wealth and Poverty of Nations*
 - Tooze – *Waves of Destruction*
 
-# Politics
+## Politics
 - Marx – *The Communist Manifesto*
 - Smith – *The Wealth of Nations*
 - Acemoglu & Robinson – *Why Nations Fail*
-
-# Hedge Fund Startup
-- Costello – *The Front Office: A Hedge Fund Guide for Retail, Day Traders, and Aspiring Quants*
 
 # Ross Recs
 - Senna – *Principles of Race Driving* (Risk / Psychology)
@@ -40,3 +42,6 @@
 - **Accounting Standards**: GAAP vs. IFRS
 - **Banking Regulation**: Basel II vs. Basel III (incl. Vasicek model)
 - **Monetary Plumbing**: BIS, Treasury, Federal Reserve operations
+
+# Hedge Fund Startup
+- Costello – *The Front Office: A Hedge Fund Guide for Retail, Day Traders, and Aspiring Quants*
