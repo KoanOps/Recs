@@ -8,12 +8,13 @@ Our recs: <br>
 [Interesting GitHub Repos](https://github.com/KoanOps/BookRecs/blob/master/GitHub_Repos.md)<br>
 [Interview Resources](https://github.com/KoanOps/BookRecs/blob/master/InterviewResources.md)<br>
 <br>
-More recs:<br>
+More recs on other areas:<br>
 [CS Books](https://github.com/KoanOps/BookRecs/blob/master/CSBooks.md)<br>
 [Other Books](https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
 [Ops](https://github.com/KoanOps/BookRecs/blob/master/Ops.md)<br>
 
-[What is a Vol Box?]()<br>
+#FAQs
+[What is a Vol Box?](https://github.com/KoanOps/BookRecs/blob/master/VolBox.md)<br>
 
 What can't be learned in books:
 FX hedging
