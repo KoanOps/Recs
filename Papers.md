@@ -1,4 +1,4 @@
-# Claudio's recommendations for research papers:
+# Claudio's recs for papers:
 
 [How accurate are modern Value-at-Risk estimators derived from extreme value theory? by Moel and Auer](https://link.springer.com/article/10.1007/s11156-017-0652-y)
 
