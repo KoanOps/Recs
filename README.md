@@ -20,3 +20,5 @@ What can't be learned in books?<br>
 FX hedging <br>
 Counterparty risk<br>
 FI exotics <br>
+
+[What works vs doesn't work?](https://github.com/KoanOps/BookRecs/blob/master/WhatWorks.md)
