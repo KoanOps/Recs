@@ -37,13 +37,13 @@
 - Mitchell – *Machine Learning*
 - Bishop – *Pattern Recognition and Machine Learning*
 
-## Deep Learning
-- Goodfellow, Bengio, Courville – *Deep Learning*
-
 ## Reinforcement Learning
 - Sutton & Barto – *Reinforcement Learning: An Introduction*
 - [David Silver – Lecture Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [David Silver – Course Materials](https://davidstarsilver.wordpress.com/teaching/)
+
+## Deep Learning
+- Goodfellow, Bengio, Courville – *Deep Learning*
 
 ## Large Language Models
 - [Liang & Hashimoto – Lecture Videos](https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
