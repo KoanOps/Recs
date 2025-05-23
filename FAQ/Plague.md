@@ -2,7 +2,7 @@
 
 ## Cancer
 
-### "Big 4" (Borderline Criminals)
+### "Big 4" Borderline Criminals
 - Deloitte  
 - PwC  
 - EY  
@@ -15,7 +15,7 @@
 - Agile  
 - Scrum  
 
-### SaaS (Tech Bureaucracy)
+### Tech SaaS Bureaucracy
 - Atlassian / Jira  
 - Workday  
 - ServiceNow  
@@ -33,7 +33,7 @@
 ### Degrees / Certifications
 - CFA  
 - CIMA / ACCA / etc.  
-- BSc Accounting  
+- BSc Accounting
 - BSc Economics (*Econometrics + Bayesian = ok*)  
 - BSc Finance / MBA Finance / Business Management  
 - BSc Gender Studies  
