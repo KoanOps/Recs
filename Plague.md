@@ -32,7 +32,7 @@ Degrees/Certificates: <br>
 CFA <br>
 CIMA/ACCA/etc<br>
 BSc Accounting <br>
-BSc Economics (Econometrics=ok)<br>
+BSc Economics (Econometrics + Bayesian =ok)<br>
 BSc Finance/MBA Finance or Business Management <br>
 BSc Gender Studies <br>
 
