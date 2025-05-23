@@ -1,44 +1,48 @@
-# Cancer
-Big 4 borderline criminals: <br>
-Deloitte<br>
-PwC<br>
-E&Y <br>
-KPMG <br>
+# What to Avoid Like the Plague
 
-"Consultants":<br>
-Accenture (formerly consulting arm of Arthur Andersen)<br>
+## Cancer
 
-Tech Cults: <br>
-Agile <br>
-Scrum <br>
+### "Big 4" (Borderline Criminals)
+- Deloitte  
+- PwC  
+- EY  
+- KPMG  
 
-SaaS: <br>
-Atlassian, Jira<br>
-Workday<br>
-ServiceNow<br>
-Salesforce<br>
+### "Consultants"
+- Accenture (formerly Arthur Andersen consulting)
 
-Financial SaaS: <br>
-Murex<br>
+### Tech Cults
+- Agile  
+- Scrum  
 
-Rating/Rating agencies: <br>
-Moody's<br>
-S&P<br>
-Fitch <br>
-ESG/"green"<br>
+### SaaS (Tech Bureaucracy)
+- Atlassian / Jira  
+- Workday  
+- ServiceNow  
+- Salesforce  
 
-Degrees/Certificates: <br>
-CFA <br>
-CIMA/ACCA/etc<br>
-BSc Accounting <br>
-BSc Economics (Econometrics + Bayesian = ok)<br>
-BSc Finance/MBA Finance or Business Management <br>
-BSc Gender Studies <br>
+### Financial SaaS
+- Murex  
 
-# Brainless<br>
+### Ratings / Agencies
+- Moody’s  
+- S&P  
+- Fitch  
+- ESG / “Green”
 
-Vanguard (& Fidelity etc)<br>
-Blackrock<br>
-PIMCO<br>
+### Degrees / Certifications
+- CFA  
+- CIMA / ACCA / etc.  
+- BSc Accounting  
+- BSc Economics (*Econometrics + Bayesian = ok*)  
+- BSc Finance / MBA Finance / Business Management  
+- BSc Gender Studies  
 
-Credit Suisse <br>
+---
+
+## Brainless
+
+- Vanguard (and similar: Fidelity, etc.)  
+- BlackRock  
+- PIMCO  
+- Credit Suisse  
