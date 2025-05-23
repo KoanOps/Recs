@@ -28,7 +28,7 @@ Angrist - Mostly Harmless Econometrics
 Costello - The Front Office: A Hedge Fund Guide for Retail, Day Traders, and Aspiring Quants
 
 # Ross Recs
-Senna - Principles of Race Driving (Risk)<br>
+Senna - Principles of Race Driving (Risk/Psychology)<br>
 [Bayesian Epistemology - Philosophy](https://plato.stanford.edu/entries/epistemology-bayesian/)<br>
 Lewis - Liar's Poker <br>
 Lewis - Flash Boys <br>
