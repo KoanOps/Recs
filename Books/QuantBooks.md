@@ -72,7 +72,7 @@
 # Ross Recs
 - Baxter – *Financial Calculus*
 - Asteriou & Hall – *Applied Econometrics*
-- [Risk.net (has some halfway decent stuff sometimes)](https://www.risk.net)
+- [Risk.net](https://www.risk.net) (has some halfway decent stuff sometimes)
 
 # Intro to Financial C++
 - [C++ Intro for Finance (Course)](https://nms.kcl.ac.uk/john.armstrong/courses/courses.html)
