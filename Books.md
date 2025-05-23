@@ -3,7 +3,7 @@ Any Intro to Accounting for financial language <br>
 Graham - Security Analysis 2nd ed ("Deep Value/Graham net-nets")<br>
 [BH Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) ("Cigar Butt" -> "Quality/Moats")<br>
 SEC Filings - start with 10Q/10Ks (Basics)<br>
-Greenblatt - You Can Be A Stock Market Genius (Spinoffs) <br>
+Greenblatt - You Can Be A Stock Market Genius (Spinoffs/Special Situations) <br>
 
 # Fixed Income
 Fabozzi - The Handbook of Fixed Income Securities
