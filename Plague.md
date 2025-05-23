@@ -38,3 +38,5 @@ BSc Gender Studies <br>
 Vanguard<br>
 Blackrock<br>
 PIMCO<br>
+
+Credit Suisse <br>
