@@ -12,9 +12,7 @@ So you grab a filing and see them not doing that.
 Because these filings are month end. Hence why the Disneys, Exxon, Loyds, they buy hedges on close of business month end or day before, and close the day after (first) to mask the filing of that number.
 If the st.dev or the variance of that number between two competitors of same magnitude differs, one is run  by toddlers, with no ALM function (as they are meant to forecast and mitigate that) while the other one keeps stable.
 Various opportunities occur.
-Mean reversion models (during market liquidity shortage)
-+ a long/short box of these two
-+ if you know as of late the overall volume, return, intraday spikes versus historically have been higher than normal, a vol box occurs during 4 quarters a year, because the f1 ml hf donkeys will at announcement cause for a dump or pump but those f1 ml hf donkeys are only good in a few things. Hold hands. Be fragile flowers. Code like nerds. But any fundamental intrinsic knowledge isnt there.
+Mean reversion models (during market liquidity shortage) + a long/short box of these two + if you know as of late the overall volume, return, intraday spikes versus historically have been higher than normal, a vol box occurs during 4 quarters a year, because the f1 ml hf donkeys will at announcement cause for a dump or pump but those f1 ml hf donkeys are only good in a few things. Hold hands. Be fragile flowers. Code like nerds. But any fundamental intrinsic knowledge isnt there.
 So you know they build a model around earnings, around macro announcements, because it seems "obvious" to doo, we are hedgies, we see moments in the future and they have a finite way of capturing that.
 They can forecast the move at earnings but they are always wrong. Because they dont know how to read a SEC filing. So they have a 10k code script to forecast how onions make tears when you cut them and somehow spurious relates to a movement of a fixed publication in the future.
 This we go left or we go right, causes volatily in spikes.
