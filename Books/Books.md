@@ -12,9 +12,6 @@
 ## Fixed Income
 - Fabozzi – *The Handbook of Fixed Income Securities*
 
-# Short Selling
-- Staley – *The Art of Short Selling*
-
 # Thinking
 ## Philosophy / Psychology
 - Dalio – *Principles*
@@ -42,6 +39,9 @@
 - **Accounting Standards**: GAAP vs. IFRS
 - **Banking Regulation**: Basel II vs. Basel III (incl. Vasicek model)
 - **Monetary Plumbing**: BIS, Treasury, Federal Reserve operations
+
+# Short Selling
+- Staley – *The Art of Short Selling*
 
 # Hedge Fund Startup
 - Costello – *The Front Office: A Hedge Fund Guide for Retail, Day Traders, and Aspiring Quants*
