@@ -8,6 +8,9 @@ Greenblatt - You Can Be A Stock Market Genius (Spinoffs/Special Situations) <br>
 # Fixed Income
 Fabozzi - The Handbook of Fixed Income Securities
 
+# Short Selling
+Staley - The Art of Short Selling
+
 # Psychology
 Kaufman - Poor Charlie's Almanack<br>
 Kahneman - Thinking Fast and Slow <br>
