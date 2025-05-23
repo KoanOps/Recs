@@ -36,7 +36,7 @@ BSc Gender Studies <br>
 # Brainless<br>
 Accenture (formerly Arthur Andersen)<br>
 
-Vanguard<br>
+Vanguard (Fidelity etc)<br>
 Blackrock<br>
 PIMCO<br>
 
