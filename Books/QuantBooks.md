@@ -4,7 +4,7 @@
 # Linear Algebra
 - Hoffman – *Linear Algebra*
 
-# Abstract Algebra
+# Algebra
 - Artin – *Algebra*
 
 # Measure Theory / Lebesgue Integration
