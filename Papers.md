@@ -2,7 +2,7 @@
 
 [How accurate are modern Value-at-Risk estimators derived from extreme value theory? by Moel and Auer](https://link.springer.com/article/10.1007/s11156-017-0652-y)
 
-[Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy by Garlappi et al](https://academic.oup.com/rfs/article-abstract/22/5/1915/1592901?redirectedFrom=fulltext)
+[Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy by Garlappi et al](https://academic.oup.com/rfs/article-abstract/22/5/1915/1592901?redirectedFrom=fulltext) (Asset Allocation)
 
 [Ito Calculus in a Nutshell](http://quantum.phys.cmu.edu/QIP/ito_calculus.pdf)
 
