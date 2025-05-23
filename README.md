@@ -18,4 +18,5 @@ More recs on other areas:<br>
 
 What can't be learned in books?<br>
 FX hedging <br>
-Counterparty risk
+Counterparty risk<br>
+FI exotics <br>
