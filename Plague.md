@@ -1,12 +1,14 @@
 # Cancer
-
-Big 4 Accounting: <br>
+Big 4 borderline criminals: <br>
 Deloitte<br>
 PWC<br>
 Ernst & Young <br>
 KPMG <br>
 
-Cults: <br>
+"Consultants":
+Accenture (formerly Arthur Andersen)<br>
+
+Tech Cults: <br>
 Agile <br>
 Scrum <br>
 
@@ -23,7 +25,7 @@ Rating/Rating agencies: <br>
 Moody's<br>
 S&P<br>
 Fitch <br>
-ESG <br>
+ESG/"green"<br>
 
 Degrees/Certificates: <br>
 CFA <br>
@@ -34,7 +36,6 @@ BSc Finance/MBA Finance or Business Management <br>
 BSc Gender Studies <br>
 
 # Brainless<br>
-Accenture (formerly Arthur Andersen)<br>
 
 Vanguard (Fidelity etc)<br>
 Blackrock<br>
