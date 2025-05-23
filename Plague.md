@@ -1,6 +1,6 @@
 # Cancer
 
-Big 4 Accounting:
+Big 4 Accounting: <br>
 Accenture (formerly Arthur Andersen)<br>
 Deloitte<br>
 PWC<br>
@@ -32,6 +32,7 @@ Degrees/Certificates: <br>
 CFA <br>
 CIMA/ACCA/etc<br>
 BSc Accounting <br>
+BSc Economics (Econometrics=ok)<br>
 
 # Brainless<br>
 Vanguard<br>
