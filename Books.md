@@ -8,3 +8,4 @@ Kaufman - Poor Charlie's Almanack<br>
 
 # Ross Recs
 Senna - Principles of Race Driving<br>
+[Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)<br>
