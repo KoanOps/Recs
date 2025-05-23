@@ -8,6 +8,10 @@ Kaufman - Poor Charlie's Almanack<br>
 Kahneman - Thinking Fast and Slow <br>
 Thaler - Nudge<br>
 
+# History
+Landes - The Wealth and Poverty of Nations <br>
+Tooze - Waves of Destruction
+
 # Politics
 Marx - The Communist Manifesto <br>
 Smith - The Wealth of Nations<br>
