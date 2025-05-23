@@ -4,7 +4,7 @@ Joshi - Quant Job Interview Questions and Answers (2nd ed)
 
 Stefanica - 150 Most Frequently Asked Questions on Quant Interviews (2nd ed)
 
-Crack Heard on the Street: Quantitative Questions from Wall Street Job Interviews
+Crack - Heard on the Street: Quantitative Questions from Wall Street Job Interviews
 
 [For those more software inclined]
 McDowell - Cracking the Coding Interview
