@@ -24,6 +24,9 @@ Dalio - Principles
 # Econometrics
 Angrist - Mostly Harmless Econometrics
 
+# Hedge Fund Startup
+Costello - The Front Office: A Hedge Fund Guide for Retail, Day Traders, and Aspiring Quants
+
 # Ross Recs
 Senna - Principles of Race Driving (Risk)<br>
 [Bayesian Epistemology - Philosophy](https://plato.stanford.edu/entries/epistemology-bayesian/)<br>
