@@ -40,7 +40,7 @@ Sutton - Reinforcement Learning: An Introduction<br>
 # DL
 Goodfellow - Deep Learning
 
-# LLMs
+# LLM
 [Liang & Hashimoto - Lecture Videos](https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&si=DA-PEKue0Uzsp1jN)<br>
 [Liang & Hashimoto - Lecture Materials](https://stanford-cs336.github.io/spring2024/index.html)<br>
 
