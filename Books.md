@@ -40,6 +40,4 @@ Lewis - Flash Boys <br>
 [Wilmot Economist](https://youtu.be/YYQXPnbWnaM?si=9PKzu7ORIVn2TEr4)
 
 # Extra Reading
-GAAP/IFRS
-Basel III vs Basel II (Vasicek model)
-BIS, Treasury, Fed
+GAAP/IFRS,Basel III vs Basel II (Vasicek model), BIS, Treasury, Fed
