@@ -1,4 +1,13 @@
-[TF Quant Finance](https://github.com/google/tf-quant-finance) <br>
-[JP Morgan Python Training](https://github.com/jpmorganchase/python-training) <br>
-[A comparision of pair trading strategies](https://github.com/wywongbd/pairstrade-fyp-2019) <br>
-[Toolkit of trading strategies](https://github.com/systematicinvestor/SIT)
+# Recommended Repositories
+
+- [TF Quant Finance](https://github.com/google/tf-quant-finance)  
+  Google’s TensorFlow-based library for quantitative finance and derivatives modeling.
+
+- [JP Morgan Python Training](https://github.com/jpmorganchase/python-training)  
+  Hands-on Python training from JP Morgan—basic finance + coding tasks.
+
+- [A Comparison of Pair Trading Strategies](https://github.com/wywongbd/pairstrade-fyp-2019)  
+  Academic-style repo comparing multiple statistical arbitrage methods.
+
+- [Toolkit of Trading Strategies – Systematic Investor Toolbox (SIT)](https://github.com/systematicinvestor/SIT)  
+  R-based framework for backtesting systematic strategies.
