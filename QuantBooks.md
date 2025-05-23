@@ -9,7 +9,7 @@ Billingsley - Probability and Measure <br>
 # Extreme Value Theory:
 Leadbetter - Extremes and Random Properties of Random Sequences and Processes
 
-# Linear Alegbra
+# Linear Algebra
 Hoffman - Linear Algebra
 
 # Algebra
@@ -26,7 +26,7 @@ Casella - Statistical Inference
 Hoff - A First Course in Bayesian Statistical Methods<br>
 Lee - Bayesian Statistics: An Introduction<br>
 Greenberg - Introduction to Bayesian Econometrics<br>
-Gelman - Bayesian Data Analysis<br>
+[Gelman - Bayesian Data Analysis](https://sites.stat.columbia.edu/gelman/book/)<br>
 
 # Combinatorics/Graph Theory:
 Murty - A First Course in Graph Theory and Combinatorics
