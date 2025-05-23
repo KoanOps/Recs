@@ -4,10 +4,10 @@
   Google’s TensorFlow-based library for quantitative finance and derivatives modeling.
 
 - [JP Morgan Python Training](https://github.com/jpmorganchase/python-training)  
-  Hands-on Python training from JP Morgan - basic finance + coding tasks.
+  Python training from JP Morgan - basic finance + coding tasks.
 
 - [A Comparison of Pair Trading Strategies](https://github.com/wywongbd/pairstrade-fyp-2019)  
-  Academic-style repo comparing multiple statistical arbitrage methods.
+  Multiple stat arb methods.
 
 - [Toolkit of Trading Strategies – Systematic Investor Toolbox (SIT)](https://github.com/systematicinvestor/SIT)  
-  R-based framework for backtesting systematic strategies.
+  R-based framework for backtesting systematic strats.
