@@ -1,7 +1,8 @@
 # Fundamental Analysis
-Graham - Security Analysis 2nd ed<br>
-[BH Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html)<br>
-SEC Filings - start with 10Q/10Ks<br>
+Graham - Security Analysis 2nd ed (Value)<br>
+[BH Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) (Quality)<br>
+SEC Filings - start with 10Q/10Ks (Basics)<br>
+Greenblatt - You Can Be A Stock Market Genius (Spinoffs) <br>
 
 # Psychology
 Kaufman - Poor Charlie's Almanack<br>
@@ -26,3 +27,5 @@ Angrist - Mostly Harmless Econometrics
 # Ross Recs
 Senna - Principles of Race Driving (Risk)<br>
 [Bayesian Epistemology - Philosophy](https://plato.stanford.edu/entries/epistemology-bayesian/)<br>
+Lewis - Liar's Poker <br>
+Lewis - Flash Boys <br>
