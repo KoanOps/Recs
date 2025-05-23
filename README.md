@@ -1,29 +1,23 @@
-# Quantitative Finance Resources<br>
+# Quantitative Finance Resources
 
-[Books](https://github.com/KoanOps/BookRecs/blob/master/Books/QuantBooks.md)<br>
+- [Books](Books/QuantBooks.md)
+- [Papers](docs/Papers.md)
+- [Repos](docs/Repos.md)
+- [Interviews](docs/Int.md)
 
-[Papers](https://github.com/KoanOps/BookRecs/blob/master/docs/Papers.md)<br>
+# Complementary Resources
 
-[Repos](https://github.com/KoanOps/BookRecs/blob/master/docs/Repos.md)<br>
+- [Fundamental Books](Books/Books.md)
+- [Ops](docs/Ops.md)
+- [CS Books](Books/CSBooks.md)
 
-[Interviews](https://github.com/KoanOps/BookRecs/blob/master/docs/Int.md)<br>
+# FAQ
 
-# Complementary Resources<br>
+- [What is a Vol Box?](FAQ/VolBox.md)
+- [What models work vs doesn't work?](FAQ/WhatWorks.md)
+- [What to avoid like the plague?](FAQ/Plague.md)
+- [What can't be learned in books?](FAQ/Limits.md)
 
-[Fundamental Books](https://github.com/KoanOps/BookRecs/blob/master/Books/Books.md)<br>
+---
 
-[Ops](https://github.com/KoanOps/BookRecs/blob/master/docs/Ops.md)<br>
-
-[CS Books](https://github.com/KoanOps/BookRecs/blob/master/Books/CSBooks.md)<br>
-
-# FAQ<br>
-
-[What is a Vol Box?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/VolBox.md) <br>
-
-[What models work vs doesn't work?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/WhatWorks.md) <br>
-
-[What to avoid like the plague?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/Plague.md) <br>
-
-[What can't be learned in books?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/Limits.md) <br>
-
-If you feel anything is missing, please make a pull request.<br>
+If you feel anything is missing, please make a pull request.
