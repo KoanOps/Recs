@@ -30,7 +30,7 @@
 
 # Ross Recs
 - Senna – *Principles of Race Driving* (Risk / Psychology)
-- [Bayesian Epistemology (Philisophy)](https://plato.stanford.edu/entries/epistemology-bayesian/)
+- [Bayesian Epistemology (Philosophy)](https://plato.stanford.edu/entries/epistemology-bayesian/)
 - Lewis – *Liar’s Poker*
 - Lewis – *Flash Boys*
 - [Wilmott – Economist on Economists (video)](https://youtu.be/YYQXPnbWnaM?si=9PKzu7ORIVn2TEr4)
