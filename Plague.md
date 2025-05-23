@@ -33,7 +33,8 @@ CFA <br>
 CIMA/ACCA/etc<br>
 BSc Accounting <br>
 BSc Economics (Econometrics=ok)<br>
-BSc Gender Studies
+BSc Finance/MBA Finance or Business Management <br>
+BSc Gender Studies <br>
 
 # Brainless<br>
 Vanguard<br>
