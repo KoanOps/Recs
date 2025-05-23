@@ -63,7 +63,7 @@
 # Risk Theory
 - Klugman – *Loss Models: From Data to Decisions*
 
-# Derivatives & Quantitative Finance
+# Derivatives
 - Passarelli – *Trading Option Greeks* (Very Low Math)
 - Blyth – *Introduction to Quantitative Finance*
 - Hull – *Options, Futures and Other Derivatives*
