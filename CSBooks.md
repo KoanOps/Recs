@@ -33,9 +33,9 @@ Mitchell - Machine Learning<br>
 Bishop - Pattern Recognitions & Machine Learning<br>
 
 # RL
-Sutton - Reinforcement Learning: An Introduction
-[UCL David Silver Lecture Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-[UCL David Silver - Lecture Slides](https://davidstarsilver.wordpress.com/teaching/)
+Sutton - Reinforcement Learning: An Introduction<br>
+[UCL David Silver Lecture Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)<br>
+[UCL David Silver - Lecture Slides](https://davidstarsilver.wordpress.com/teaching/)<br>
 
 # DL
 Goodfellow - Deep Learning
