@@ -20,7 +20,8 @@ More recs on other areas:<br>
 
 [What to avoid like the plague?](https://github.com/KoanOps/BookRecs/blob/master/Plague.md)
 
-What can't be learned in books? <br>
+What can't be learned in books?
+
 FX hedging <br>
 Counterparty risk<br>
 FI exotics <br>
