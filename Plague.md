@@ -11,6 +11,10 @@ Moody's<br>
 S&P<br>
 Fitch <br>
 
+Atlassian, Jira<br>
+Workday<br>
+ServiceNow<br>
+
 # Brainless<br>
 Vanguard<br>
 Blackrock<br>
