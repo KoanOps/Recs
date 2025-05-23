@@ -1,4 +1,6 @@
-FX hedging <br>
-Counterparty risk <br>
-FI exotics <br>
-Practitioner <br>
+# What Can't Be Learned in Books
+
+- FX Hedging  
+- Counterparty Risk  
+- Fixed Income Exotics  
+- Practitioner Judgment
