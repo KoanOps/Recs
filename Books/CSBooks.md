@@ -6,7 +6,7 @@
 - Knuth – *The Art of Computer Programming*
 - Kernighan – *The C Programming Language*, 2nd ed
 ## Practice Paths
-- Convert a project from another language you already know into C *(easiest path)*
+- Convert your project from another language you already know into C *(easiest path)*
 - Read a lot of C code, modify it, observe the effect *(easier path if you have good memory)*
 - Take a Microprocessor Applications course to understand Assembly, and its connection to C *(harder path)*
 - Write a lot of C code from scratch *(hardest path)*
