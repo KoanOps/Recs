@@ -11,7 +11,8 @@ Fabozzi - The Handbook of Fixed Income Securities
 # Short Selling
 Staley - The Art of Short Selling
 
-# Psychology
+# Philosophy/Psychology
+Dalio - Principles
 Kaufman - Poor Charlie's Almanack<br>
 Kahneman - Thinking Fast and Slow <br>
 Thaler - Nudge<br>
@@ -24,9 +25,6 @@ Tooze - Waves of Destruction
 Marx - The Communist Manifesto <br>
 Smith - The Wealth of Nations<br>
 Acemoglu - Why Nations Fail<br>
-
-# Philosophy
-Dalio - Principles
 
 # Econometrics
 Angrist - Mostly Harmless Econometrics
