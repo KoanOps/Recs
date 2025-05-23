@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Backus–Naur_form
 ABNF/EBNF
 
 # Programming
-Knuth - The Art of Computer Programming (TAOCP)<br>
+Knuth - The Art of Computer Programming<br>
 Kernighan - The C Programming Language 2nd ed<br>
 Convert your project from another language into C 
 
@@ -14,11 +14,11 @@ Schimmel - Unix Systems for Modern Architectures<br>
 Vahalla - Unix Internals The New Frontiers<br>
 Systems Engineering books<br>
 
-# Protocol/Networking
+# Protocols & Networking
 Stevens - TCP/IP Illustrated: Volume 1 The Protocols
 McNamara - Technical Aspects of Data Communications
 
-# x86
+# Computer Architecture (x86)
 Shanley - Protected Mode Software Architecture
 
 # Information Theory
