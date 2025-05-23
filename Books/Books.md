@@ -37,7 +37,7 @@
 
 # Extra Reading
 - **Accounting Standards**: GAAP vs. IFRS (and limitations)
-- **Banking Regulation**: Basel II vs. Basel III (incl. Vasicek model)
+- **Banking Regulation**: Basel III vs. Basel II (incl. Vasicek model)
 - **Monetary Plumbing**: BIS, Treasury, Federal Reserve
 
 # Short Selling
