@@ -5,7 +5,7 @@
 - Kernighan – *The C Programming Language*, 2nd ed
 
 ## Practice
-- Convert your large project you already know from another language ie Python into C *(easiest path, UNIX preferred, C lib is small)*
+- Convert your large project you already know from ie Python into C *(easiest path, UNIX preferred, C lib is small)*
 - Read a lot of C code, modify it, observe the effect *(easier path if you have good memory)*
 - Take a Microprocessor Applications course to understand Assembly, and its connection to C *(harder path)*
 - Write a lot of C code from scratch *(hardest path)*
