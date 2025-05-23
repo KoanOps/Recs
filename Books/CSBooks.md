@@ -28,7 +28,7 @@
 # Algorithms
 - Dasgupta, Papadimitriou, Vazirani – *Algorithms*
 - Kleinberg – *Algorithm Design*
-- [Nelson – Advanced Algorithms](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
+- [Nelson – Advanced Algorithms Course](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
 - Knuth – *The Art of Computer Programming*
 
 # Machine Learning
