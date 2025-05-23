@@ -77,8 +77,8 @@ Thats why since Putin yelled
 *BOOOO*
 Its been pouring money ever since.
 But 
-1) no one has patience
-2) want to see the money asap
-3) dont hedge it off
+1) no one has patience <br>
+2) want to see the money asap <br>
+3) dont hedge it off <br>
 And i see a 10% return deviation for a big firm in one day, compare that to historical returns and think..
 _here we go again_......
