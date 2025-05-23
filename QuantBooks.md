@@ -75,8 +75,7 @@ Hull - Options, Futures and Other Derivatives<br>
 # Ross's recs:
 Financial Calculus - Baxter<br>
 Applied Econometrics - Asteriou and Hall<br>
-https://www.risk.net/<br>
-https://plato.stanford.edu/entries/epistemology-bayesian/<br>
+[Risk.net](https://www.risk.net)<br>
 
 # C++ for Financial Maths
-https://nms.kcl.ac.uk/john.armstrong/courses/courses.html
+[C++ Intro for Finance](https://nms.kcl.ac.uk/john.armstrong/courses/courses.html)<br>
