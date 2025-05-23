@@ -2,17 +2,17 @@
 
 [Books](https://github.com/KoanOps/BookRecs/blob/master/Books/QuantBooks.md)<br>
 
-[Papers](https://github.com/KoanOps/BookRecs/blob/master/Papers.md)<br>
+[Papers](https://github.com/KoanOps/BookRecs/blob/master/docs/Papers.md)<br>
 
-[Repos](https://github.com/KoanOps/BookRecs/blob/master/Repos.md)<br>
+[Repos](https://github.com/KoanOps/BookRecs/blob/master/docs/Repos.md)<br>
 
-[Interviews](https://github.com/KoanOps/BookRecs/blob/master/Int.md)<br>
+[Interviews](https://github.com/KoanOps/BookRecs/blob/master/docs/Int.md)<br>
 
 # Complementary Resources<br>
 
 [Fundamental Books](https://github.com/KoanOps/BookRecs/blob/master/Books/Books.md)<br>
 
-[Ops](https://github.com/KoanOps/BookRecs/blob/master/Ops.md)<br>
+[Ops](https://github.com/KoanOps/BookRecs/blob/master/docs/Ops.md)<br>
 
 [CS Books](https://github.com/KoanOps/BookRecs/blob/master/Books/CSBooks.md)<br>
 
