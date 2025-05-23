@@ -20,7 +20,7 @@ Artin - Algebra
 [Hastie - The Elements of Statistical Learning - Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/)
 
 # Statistical Inference:
-Casella - Statistical Inference
+[Casella - Statistical Inference](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf)
 
 # Bayesian:
 Hoff - A First Course in Bayesian Statistical Methods<br>
