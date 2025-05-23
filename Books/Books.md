@@ -17,11 +17,11 @@
 - Kahneman – *Thinking, Fast and Slow*
 - Thaler – *Nudge*
 
-# Economic History
+# History
 - Landes – *The Wealth and Poverty of Nations*
 - Tooze – *Waves of Destruction*
 
-# Political Economy
+# Politics
 - Marx – *The Communist Manifesto*
 - Smith – *The Wealth of Nations*
 - Acemoglu & Robinson – *Why Nations Fail*
