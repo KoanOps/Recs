@@ -4,7 +4,7 @@
   Google’s TensorFlow-based library for quantitative finance and derivatives modeling.
 
 - [JP Morgan Python Training](https://github.com/jpmorganchase/python-training)  
-  Hands-on Python training from JP Morgan—basic finance + coding tasks.
+  Hands-on Python training from JP Morgan - basic finance + coding tasks.
 
 - [A Comparison of Pair Trading Strategies](https://github.com/wywongbd/pairstrade-fyp-2019)  
   Academic-style repo comparing multiple statistical arbitrage methods.
