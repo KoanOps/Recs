@@ -1,6 +1,6 @@
-# Books, Papers and GitHub repos relevant to Quantitative Finance
+# Resources (Books, Papers, and GitHub repos) for Quantitative Finance
 
-If you feel anything is missing please make a pull request.
+If you feel anything is missing, please make a pull request.
 
 Our recs: <br>
 [Quant Books](https://github.com/KoanOps/BookRecs/blob/master/QuantBooks.md)<br>
@@ -20,5 +20,6 @@ What can't be learned in books?<br>
 FX hedging <br>
 Counterparty risk<br>
 FI exotics <br>
+Practicioner
 
-[What works vs doesn't work?](https://github.com/KoanOps/BookRecs/blob/master/WhatWorks.md)
+[What models work vs doesn't work?](https://github.com/KoanOps/BookRecs/blob/master/WhatWorks.md)
