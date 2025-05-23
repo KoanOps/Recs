@@ -1,6 +1,5 @@
 # Syntax
-https://en.wikipedia.org/wiki/Backus–Naur_form
-ABNF/EBNF
+[BNF (Backus-Naur Form)](https://en.wikipedia.org/wiki/Backus–Naur_form), ABNF/EBNF
 
 # Programming
 Knuth - The Art of Computer Programming<br>
