@@ -1,8 +1,11 @@
 # Fundamental Analysis
-Graham - Security Analysis 2nd ed (Value)<br>
-[BH Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) (Quality)<br>
+Graham - Security Analysis 2nd ed ("Deep Value")<br>
+[BH Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) ("Deep Value", then Quality)<br>
 SEC Filings - start with 10Q/10Ks (Basics)<br>
 Greenblatt - You Can Be A Stock Market Genius (Spinoffs) <br>
+
+# Fixed Income
+Fabozzi - The Handbook of Fixed Income Securities
 
 # Psychology
 Kaufman - Poor Charlie's Almanack<br>
