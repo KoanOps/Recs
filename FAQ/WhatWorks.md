@@ -8,4 +8,4 @@
 - CNN-LSTM hybrids (for sentiment analysis): maybe  
 - Transformers for small instances of signal: sometimes work  
 - Trend following doesn't work (unless you are HFT market makers, but you are outmatched in infra/resources)
-  [running list]
+- [running list]
