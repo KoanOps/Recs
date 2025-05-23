@@ -1,8 +1,4 @@
-# Resources for Quantitative Finance<br>
-
-If you feel anything is missing, please make a pull request.<br>
-
-Our quant finance recs: <br>
+# Quantitative Finance Resources<br>
 
 [Books](https://github.com/KoanOps/BookRecs/blob/master/Books/QuantBooks.md)<br>
 
@@ -12,7 +8,7 @@ Our quant finance recs: <br>
 
 [Interviews](https://github.com/KoanOps/BookRecs/blob/master/Int.md)<br>
 
-# Complementary<br>
+# Complementary Resources<br>
 
 [Fundamental Books](https://github.com/KoanOps/BookRecs/blob/master/Books/Books.md)<br>
 
@@ -29,3 +25,5 @@ Our quant finance recs: <br>
 [What to avoid like the plague?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/Plague.md) <br>
 
 [What can't be learned in books?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/Limits.md) <br>
+
+If you feel anything is missing, please make a pull request.<br>
