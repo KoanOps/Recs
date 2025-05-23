@@ -2,10 +2,14 @@
 - [BNF (Backus–Naur Form)](https://en.wikipedia.org/wiki/Backus–Naur_form), ABNF/EBNF
 
 # Programming
+## Books
 - Knuth – *The Art of Computer Programming*
 - Kernighan – *The C Programming Language*, 2nd ed
-- Convert a project from another language into C (learn architecture by constraint)
-- Take a Microprocessor Applications course (understand Assembly/C mapping)
+## Practice
+- Convert a project from another language you already know into C *(easiest path)*
+- Read a lot of C code, modify it, observe the effect *(easier if you have good memory)*
+- Take a Microprocessor Applications course to understand Assembly and its connection to C *(harder path)*
+- Write a lot of C code from scratch *(hardest)*
 
 # Systems Programming
 - Schimmel – *Unix Systems for Modern Architectures*
