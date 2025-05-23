@@ -37,6 +37,7 @@ Senna - Principles of Race Driving (Risk/Psychology)<br>
 Lewis - Liar's Poker <br>
 Lewis - Flash Boys <br>
 
-# Extra
+# Extra Reading
 GAAP/IFRS
 Basel III vs Basel II (Vasicek model)
+BIS, Treasury, Fed
