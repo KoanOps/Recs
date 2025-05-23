@@ -19,9 +19,9 @@ Scraping list (rolling basis with scheduler):
 - Unusual activity sites  
 
 - US/EU financial institutions – amortized vs fair value risk (AC + FV)  
-- UK, GER, ESP loan banks – Var table, LGBM forecast, CR366, cap constraints, RWAs, short-term debt issuance  
-- Option chain sites (OptionStrat), banks rolling month-end options  
-- SFDR (e.g., for AFM) 
+- UK, GER, ESP loan banks – VaR table, LGBM forecast, CR366, cap constraints, RWAs, short-term debt issuance  
+- Option chain sites (OptionStrat), banks rolling month-end options
+- SFDR (e.g., for AFM)
  
 - Yahoo Finance  
 - Reddit WSB  
