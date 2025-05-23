@@ -8,7 +8,7 @@ Our quant recs: <br>
 [Interesting GitHub Repos](https://github.com/KoanOps/BookRecs/blob/master/GitHub_Repos.md)<br>
 [Interview Resources](https://github.com/KoanOps/BookRecs/blob/master/InterviewResources.md)<br>
 <br>
-Complementary recs to quant:<br>
+# Road to "Quantamental" - Complementary recs to quant:<br>
 [CS Books](https://github.com/KoanOps/BookRecs/blob/master/CSBooks.md)<br>
 [Fundamentals & Other Books](https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
 [Suggested Ops](https://github.com/KoanOps/BookRecs/blob/master/Ops.md)<br>
