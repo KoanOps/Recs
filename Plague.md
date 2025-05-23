@@ -6,7 +6,7 @@ E&Y <br>
 KPMG <br>
 
 "Consultants":<br>
-Accenture (formerly Arthur Andersen)<br>
+Accenture (formerly consulting arm of Arthur Andersen)<br>
 
 Tech Cults: <br>
 Agile <br>
