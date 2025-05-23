@@ -11,7 +11,7 @@ Fabozzi - The Handbook of Fixed Income Securities
 # Short Selling
 Staley - The Art of Short Selling
 
-# Psychology/Philosophy
+# Philosophy/Psychology
 Dalio - Principles <br>
 Kaufman - Poor Charlie's Almanack<br>
 Kahneman - Thinking Fast and Slow <br>
