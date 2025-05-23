@@ -2,12 +2,9 @@
 - [BNF (Backus–Naur Form)](https://en.wikipedia.org/wiki/Backus–Naur_form), ABNF/EBNF
 
 # Programming
-
-## Books
-- Knuth – *The Art of Computer Programming*
 - Kernighan – *The C Programming Language*, 2nd ed
 
-## Practice Paths
+## Practice
 - Convert your large project you already know from another language into C *(easiest path, UNIX preferred, C lib is small)*
 - Read a lot of C code, modify it, observe the effect *(easier path if you have good memory)*
 - Take a Microprocessor Applications course to understand Assembly, and its connection to C *(harder path)*
@@ -32,6 +29,7 @@
 - Dasgupta, Papadimitriou, Vazirani – *Algorithms*
 - Kleinberg – *Algorithm Design*
 - [Nelson – Advanced Algorithms](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
+- Knuth – *The Art of Computer Programming*
 
 # Machine Learning
 
