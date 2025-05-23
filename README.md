@@ -4,7 +4,7 @@ If you feel anything is missing, please make a pull request.<br>
 
 Our quant finance recs: <br>
 
-[Books](https://github.com/KoanOps/BookRecs/blob/master/QuantBooks.md)<br>
+[Books](https://github.com/KoanOps/BookRecs/blob/master/Books/QuantBooks.md)<br>
 
 [Papers](https://github.com/KoanOps/BookRecs/blob/master/Papers.md)<br>
 
@@ -14,11 +14,11 @@ Our quant finance recs: <br>
 
 # Complementary:<br>
 
-[Fundamental Books](https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
+[Fundamental Books](https://github.com/KoanOps/BookRecs/blob/master/Books/Books.md)<br>
 
 [Ops](https://github.com/KoanOps/BookRecs/blob/master/Ops.md)<br>
 
-[CS Books](https://github.com/KoanOps/BookRecs/blob/master/CSBooks.md)<br>
+[CS Books](https://github.com/KoanOps/BookRecs/blob/master/Books/CSBooks.md)<br>
 
 # FAQs<br>
 
