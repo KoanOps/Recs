@@ -6,7 +6,8 @@ Stefanica - 150 Most Frequently Asked Questions on Quant Interviews (2nd ed)
 
 Crack - Heard on the Street: Quantitative Questions from Wall Street Job Interviews
 
-[For those more software inclined]
-McDowell - Cracking the Coding Interview
+[For those more software inclined] McDowell - Cracking the Coding Interview
 
 [System Design Prep](https://github.com/shashank88/system_design)
+
+Ross Interview Book (Amazon)
