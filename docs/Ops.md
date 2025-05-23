@@ -1,38 +1,39 @@
-# Make a robust stochastic local volatility model
+# Make a Robust Stochastic Local Volatility Model
 Many banks use a Bayesian approach with MCMC modeling
 
-# Know how to build a scraper<br>
-Scraping List: (rolling basis with scheduler)<br>
-Live SEC filings<br>
-Live EBA Filings<br>
-G10 country reg filings (just before market open, just after, US open)<br>
-5 metrics (cash, debt, profit margin - 3 websites - simple burn thru cash model)<br>
-stock fundamentals/nasdaq requirements<br>
-worldgovernmentbonds (+ Another FI to reconcile ie markets.FT.com/data/indicies) i.e. run a yield by tenor bucket reconciliation to flip out mistakes<br>
+# Know How to Build a Scraper
+Scraping list (rolling basis with scheduler):
 
-OECD import/export products<br>
-VLCC (ships)<br>
+- Live SEC filings  
+- Live EBA filings  
+- G10 country regulatory filings (pre-market, post-market, US open)  
+- 5 metrics (cash, debt, profit margin – 3 websites – simple burn-through cash model)  
+- Stock fundamentals / NASDAQ requirements  
+- worldgovernmentbonds + markets.FT.com/data/indices (yield by tenor bucket reconciliation)
 
-ETF rebalancing (i.e. iShares/Wisdomtree)<br>
-Finviz (insider buy/sell)<br>
-Unusual activity sites<br>
+- OECD import/export products  
+- VLCC (ships)  
 
-US/EU Financial institutions - Amortized value (accounting pages) vs fair value risk (risk pages), total = AC + FV<br>
-UK, GER, ESP etc loan banks domiciled same HQ - get Var table, LGBM forecast = breach, CR366, cap constraints, RWAs, short term debt issuance<br>
-Option Chain sites (Optionstrat), banks rolling mo end options to diminish risk figs, cyclical behavior<br>
-SFDR (i.e. for AFM)<br>
+- ETF rebalancing (iShares, WisdomTree)  
+- Finviz (insider buy/sell)  
+- Unusual activity sites  
 
-Yahoo Fin<br>
-Reddit WSB<br>
-Coinmarketcap<br>
-Stocktwits<br>
-NLP scraper to news<br>
+- US/EU financial institutions – amortized vs fair value risk (AC + FV)  
+- UK, GER, ESP loan banks – Var table, LGBM forecast, CR366, cap constraints, RWAs, short-term debt issuance  
+- Option chain sites (OptionStrat), banks rolling month-end options  
+- SFDR (e.g., for AFM) 
+ 
+- Yahoo Finance  
+- Reddit WSB  
+- CoinMarketCap  
+- StockTwits  
+- NLP scraper to news
 
-# Code corr matrix - rolling vector t+1
+# Code Corr Matrix – Rolling Vector t+1
 
-# Make db, collect data
+# Make DB, Collect Data
 
 # Broker API
 Suggest IBKR or prime brokers
 
-# Competent friends for sanity check
+# Competent Friends for Sanity Check
