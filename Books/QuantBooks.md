@@ -64,7 +64,7 @@
 - Klugman – *Loss Models: From Data to Decisions*
 
 # Derivatives & Quantitative Finance
-- Passarelli – *Trading Option Greeks* (Low Math)
+- Passarelli – *Trading Option Greeks* (Very Low Math)
 - Blyth – *Introduction to Quantitative Finance*
 - Hull – *Options, Futures and Other Derivatives*
 - Hafner – *Stochastic Implied Volatility* (Volatility Smiles)
@@ -75,4 +75,4 @@
 - [Risk.net](https://www.risk.net)
 
 # Intro to Financial C++
-- [C++ Intro for Finance (KCL Course)](https://nms.kcl.ac.uk/john.armstrong/courses/courses.html)
+- [C++ Intro for Finance (Course)](https://nms.kcl.ac.uk/john.armstrong/courses/courses.html)
