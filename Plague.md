@@ -28,9 +28,10 @@ Fitch <br>
 Ratings: <br>
 ESG <br>
 
-Certificates: <br>
+Degrees/Certificates: <br>
 CFA <br>
 CIMA/ACCA/etc<br>
+BSc Accounting <br>
 
 # Brainless<br>
 Vanguard<br>
