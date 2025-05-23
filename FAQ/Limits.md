@@ -3,4 +3,6 @@
 - FX Hedging  
 - Counterparty Risk  
 - Fixed Income Exotics  
-- Practitioner Judgment
+- Practitioner Judgment  
+
+*(running list)*
