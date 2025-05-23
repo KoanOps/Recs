@@ -7,7 +7,6 @@ Ernst & Young <br>
 KPMG <br>
 
 Cults: <br>
-Accenture (formerly Arthur Andersen)<br>
 Agile <br>
 Scrum <br>
 
@@ -35,6 +34,8 @@ BSc Finance/MBA Finance or Business Management <br>
 BSc Gender Studies <br>
 
 # Brainless<br>
+Accenture (formerly Arthur Andersen)<br>
+
 Vanguard<br>
 Blackrock<br>
 PIMCO<br>
