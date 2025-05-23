@@ -1,7 +1,7 @@
 # What Models Work vs. Don't Work
 
 - Fundamental Analysis works (tips odds in your favor)  
-- Technical Analysis doesn't work  
+- Technical Analysis doesn't work (test and see for yourself)
 - Simple Linear Regression can work (mainly used inDESCO)  
 - Supervised Neural Nets work  
 - LSTM doesn't work  
