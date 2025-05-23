@@ -1,4 +1,4 @@
-FX hedging
-Counterparty risk
-FI exotics
-Practitioner
+FX hedging <br>
+Counterparty risk <br>
+FI exotics <br>
+Practitioner <br>
