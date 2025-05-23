@@ -8,7 +8,7 @@ Our quant finance recs: <br>
 [Repos](https://github.com/KoanOps/BookRecs/blob/master/GitHub_Repos.md)<br>
 [Interview](https://github.com/KoanOps/BookRecs/blob/master/InterviewResources.md)<br>
 <br>
-# Complementary recs to quant:<br>
+# Complementary:<br>
 [Fundamentals & Other Books](https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
 [Ops](https://github.com/KoanOps/BookRecs/blob/master/Ops.md)<br>
 [CS Books](https://github.com/KoanOps/BookRecs/blob/master/CSBooks.md)<br>
