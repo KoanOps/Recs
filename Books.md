@@ -5,6 +5,16 @@ SEC Filings - start with 10Q/10Ks<br>
 
 # Psychology
 Kaufman - Poor Charlie's Almanack<br>
+Kahneman - Thinking Fast and Slow <br>
+Thaler - Nudge
+
+# Politics
+Marx - The Communist Manifesto
+Smith - The Wealth of Nations
+Acemoglu - Why Nations Fail
+
+# Philosophy
+Dalio - Principles
 
 # Ross Recs
 Senna - Principles of Race Driving (Risk)<br>
