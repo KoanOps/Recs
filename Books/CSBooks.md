@@ -2,11 +2,13 @@
 - [BNF (Backus–Naur Form)](https://en.wikipedia.org/wiki/Backus–Naur_form), ABNF/EBNF
 
 # Programming
+
 ## Books
 - Knuth – *The Art of Computer Programming*
 - Kernighan – *The C Programming Language*, 2nd ed
+
 ## Practice Paths
-- Convert your project from another language you already know into C *(easiest path)*
+- Convert your large project you already know from another language into C *(easiest path, C lib is small on UNIX)*
 - Read a lot of C code, modify it, observe the effect *(easier path if you have good memory)*
 - Take a Microprocessor Applications course to understand Assembly, and its connection to C *(harder path)*
 - Write a lot of C code from scratch *(hardest path)*
