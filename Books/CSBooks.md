@@ -25,7 +25,7 @@
 # Algorithms
 - Dasgupta, Papadimitriou, Vazirani – *Algorithms*
 - Kleinberg – *Algorithm Design*
-- [Jelani Nelson – Advanced Algorithms (Harvard CS224)](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
+- [Jelani Nelson – Advanced Algorithms](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
 
 # Machine Learning
 - Mitchell – *Machine Learning*
@@ -41,4 +41,4 @@
 
 # Large Language Models
 - [Liang & Hashimoto – Lecture Videos](https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
-- [Liang & Hashimoto – Course Materials (Stanford CS336)](https://stanford-cs336.github.io/spring2024/index.html)
+- [Liang & Hashimoto – Course Materials](https://stanford-cs336.github.io/spring2024/index.html)
