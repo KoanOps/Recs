@@ -1,5 +1,5 @@
 # Fundamental Analysis
-Any Intro to Accounting for financial language <br>
+Any Intro to Accounting just for the accounting “language” <br>
 Graham - Security Analysis 2nd ed ("Deep Value/net-nets")<br>
 [BH Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) ("Cigar Butt" -> "Quality/Moats")<br>
 SEC Filings - start with 10Q/10Ks (Basics)<br>
@@ -25,9 +25,6 @@ Tooze - Waves of Destruction
 Marx - The Communist Manifesto <br>
 Smith - The Wealth of Nations<br>
 Acemoglu - Why Nations Fail<br>
-
-# Econometrics
-Angrist - Mostly Harmless Econometrics
 
 # Hedge Fund Startup
 Costello - The Front Office: A Hedge Fund Guide for Retail, Day Traders, and Aspiring Quants
