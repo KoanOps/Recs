@@ -12,7 +12,7 @@ Our quant finance recs: <br>
 
 [Interviews](https://github.com/KoanOps/BookRecs/blob/master/Int.md)<br>
 
-# Complementary:<br>
+# Complementary<br>
 
 [Fundamental Books](https://github.com/KoanOps/BookRecs/blob/master/Books/Books.md)<br>
 
@@ -20,7 +20,7 @@ Our quant finance recs: <br>
 
 [CS Books](https://github.com/KoanOps/BookRecs/blob/master/Books/CSBooks.md)<br>
 
-# FAQs<br>
+# FAQ<br>
 
 [What is a Vol Box?](https://github.com/KoanOps/BookRecs/blob/master/FAQ/VolBox.md) <br>
 
