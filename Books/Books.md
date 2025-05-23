@@ -37,6 +37,6 @@
 - [Wilmott – Economist on Economists (video)](https://youtu.be/YYQXPnbWnaM?si=9PKzu7ORIVn2TEr4)
 
 # Extra Reading
-- GAAP / IFRS
-- Basel III vs Basel II (incl. Vasicek model)
-- BIS, Treasury, Federal Reserve
+- **Accounting Standards**: GAAP vs. IFRS
+- **Banking Regulation**: Basel II vs. Basel III (incl. Vasicek model)
+- **Monetary Plumbing**: BIS, Treasury, Federal Reserve operations
