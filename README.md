@@ -12,3 +12,9 @@ More recs:<br>
 [CS Books](https://github.com/KoanOps/BookRecs/blob/master/CSBooks.md)<br>
 [Other Books](https://github.com/KoanOps/BookRecs/blob/master/Books.md)<br>
 [Ops](https://github.com/KoanOps/BookRecs/blob/master/Ops.md)<br>
+
+[What is a Vol Box?]()<br>
+
+What can't be learned in books:
+FX hedging
+Counterparty risk
