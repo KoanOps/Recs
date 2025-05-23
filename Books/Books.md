@@ -14,8 +14,8 @@
 
 # Thinking
 ## Philosophy / Psychology
-- Dalio – *Principles*
 - Kaufman – *Poor Charlie's Almanack*
+- Dalio – *Principles*
 - Kahneman – *Thinking, Fast and Slow*
 - Thaler – *Nudge*
 
