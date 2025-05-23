@@ -14,10 +14,8 @@ Schimmel - Unix Systems for Modern Architectures<br>
 Vahalla - Unix Internals The New Frontiers<br>
 Systems Engineering books<br>
 
-# Protocol
+# Protocol/Networking
 Stevens - TCP/IP Illustrated: Volume 1 The Protocols
-
-# Networking
 McNamara - Technical Aspects of Data Communications
 
 # x86
