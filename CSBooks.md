@@ -7,7 +7,7 @@ ABNF/EBNF
 # Programming
 Knuth - The Art of Computer Programming<br>
 Kernighan - The C Programming Language 2nd ed<br>
-Convert your project from another language into C to learn design/architecture<br>
+Convert your project (any) from another language into C to learn design/architecture<br>
 
 # Systems Programming 
 Schimmel - Unix Systems for Modern Architectures<br>
