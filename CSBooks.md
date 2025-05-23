@@ -5,7 +5,7 @@
 Knuth - The Art of Computer Programming<br>
 Kernighan - The C Programming Language 2nd ed<br>
 Convert your project (any) from another language into C to learn design/architecture (Easy)<br>
-Take Microprocessor Applications course, see Assembly, see connections between Assembly & C <br>
+Take Microprocessor Applications course, see Assembly, see connections between Assembly & C (Hard)<br>
 
 # Systems Programming 
 Schimmel - Unix Systems for Modern Architectures<br>
