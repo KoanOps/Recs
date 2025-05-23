@@ -15,4 +15,4 @@
 
 - [McDowell – *Cracking the Coding Interview*](https://www.crackingthecodinginterview.com/)  
 
-- [System Design Primer (GitHub)](https://github.com/shashank88/system_design)  
+- [System Design Primer](https://github.com/shashank88/system_design)  
