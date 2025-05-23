@@ -1,40 +1,42 @@
 # Fundamental Analysis
-Any Intro to Accounting just for the accounting “language” <br>
-Graham - Security Analysis 2nd ed ("Deep Value/net-nets")<br>
-[BH Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) ("Cigar Butt" -> "Quality/Moats")<br>
-SEC Filings - start with 10Q/10Ks (Basics)<br>
-Greenblatt - You Can Be A Stock Market Genius (Spinoffs/Special Situations) <br>
+- Any Intro to Accounting – for the "language" of financials
+- Graham – *Security Analysis*, 2nd ed ("Deep Value/net-nets")
+- [Berkshire Hathaway Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) ("Cigar Butt" → "Quality/Moats")
+- SEC Filings – start with 10-Q/10-Ks (Basics)
+- Greenblatt – *You Can Be A Stock Market Genius* (Spinoffs, Special Situations)
 
 # Fixed Income
-Fabozzi - The Handbook of Fixed Income Securities
+- Fabozzi – *The Handbook of Fixed Income Securities*
 
 # Short Selling
-Staley - The Art of Short Selling
+- Staley – *The Art of Short Selling*
 
-# Philosophy/Psychology
-Dalio - Principles <br>
-Kaufman - Poor Charlie's Almanack<br>
-Kahneman - Thinking Fast and Slow <br>
-Thaler - Nudge<br>
+# Philosophy / Psychology
+- Dalio – *Principles*
+- Kaufman – *Poor Charlie's Almanack*
+- Kahneman – *Thinking, Fast and Slow*
+- Thaler – *Nudge*
 
-# History
-Landes - The Wealth and Poverty of Nations <br>
-Tooze - Waves of Destruction
+# Economic History
+- Landes – *The Wealth and Poverty of Nations*
+- Tooze – *Waves of Destruction*
 
-# Politics
-Marx - The Communist Manifesto <br>
-Smith - The Wealth of Nations<br>
-Acemoglu - Why Nations Fail<br>
+# Political Economy
+- Marx – *The Communist Manifesto*
+- Smith – *The Wealth of Nations*
+- Acemoglu & Robinson – *Why Nations Fail*
 
 # Hedge Fund Startup
-Costello - The Front Office: A Hedge Fund Guide for Retail, Day Traders, and Aspiring Quants
+- Costello – *The Front Office: A Hedge Fund Guide for Retail, Day Traders, and Aspiring Quants*
 
 # Ross Recs
-Senna - Principles of Race Driving (Risk/Psychology)<br>
-[Bayesian Epistemology - Philosophy](https://plato.stanford.edu/entries/epistemology-bayesian/)<br>
-Lewis - Liar's Poker <br>
-Lewis - Flash Boys <br>
-[Wilmot - Economist on Economists](https://youtu.be/YYQXPnbWnaM?si=9PKzu7ORIVn2TEr4)
+- Senna – *Principles of Race Driving* (Risk / Psychology)
+- [Stanford Encyclopedia: Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
+- Lewis – *Liar’s Poker*
+- Lewis – *Flash Boys*
+- [Wilmott – Economist on Economists (video)](https://youtu.be/YYQXPnbWnaM?si=9PKzu7ORIVn2TEr4)
 
 # Extra Reading
-GAAP/IFRS, Basel III vs Basel II (Vasicek model), BIS, Treasury, Fed
+- GAAP / IFRS
+- Basel III vs Basel II (incl. Vasicek model)
+- BIS, Treasury, Federal Reserve
