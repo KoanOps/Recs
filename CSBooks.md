@@ -34,11 +34,16 @@ Bishop - Pattern Recognitions & Machine Learning<br>
 
 # RL
 Sutton - Reinforcement Learning: An Introduction<br>
-[UCL David Silver Lecture Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)<br>
-[UCL David Silver - Lecture Slides](https://davidstarsilver.wordpress.com/teaching/)<br>
+[David Silver - Lecture Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)<br>
+[David Silver - Lecture Slides](https://davidstarsilver.wordpress.com/teaching/)<br>
 
 # DL
 Goodfellow - Deep Learning
+
+# LLMs
+[Liang & Hashimoto - Lecture Videos](https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&si=DA-PEKue0Uzsp1jN)<br>
+[Liang & Hashimoto - Lecture Materials](https://stanford-cs336.github.io/spring2024/index.html)<br>
+
 
 # Information Theory
 Cover - Elements of Information Theory
