@@ -1,6 +1,6 @@
 Fundamental Analysis works (tips odds in your favor)<br>
 Technical Analysis doesn't work<br>
-Linear Regression works<br>
+Simple Linear Regression works (DESCO)<br>
 Supervised NN works<br>
 LSTM doesn't work<br>
 CNN-LSTM hybrids (for sentiment analysis) maybe<br>
