@@ -1,6 +1,6 @@
 # Fundamental Analysis
 Any Intro to Accounting for financial language <br>
-Graham - Security Analysis 2nd ed ("Deep Value/Graham net-nets")<br>
+Graham - Security Analysis 2nd ed ("Deep Value/net-nets")<br>
 [BH Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) ("Cigar Butt" -> "Quality/Moats")<br>
 SEC Filings - start with 10Q/10Ks (Basics)<br>
 Greenblatt - You Can Be A Stock Market Genius (Spinoffs/Special Situations) <br>
