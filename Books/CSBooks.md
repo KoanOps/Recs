@@ -29,7 +29,7 @@
 # Algorithms
 - Dasgupta, Papadimitriou, Vazirani – *Algorithms*
 - Kleinberg – *Algorithm Design*
-- [Jelani Nelson – Advanced Algorithms](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
+- [Nelson – Advanced Algorithms](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
 
 # Machine Learning
 
@@ -39,8 +39,8 @@
 
 ## Reinforcement Learning
 - Sutton & Barto – *Reinforcement Learning: An Introduction*
-- [David Silver – Lecture Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-- [David Silver – Course Materials](https://davidstarsilver.wordpress.com/teaching/)
+- [Silver – Lecture Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- [Silver – Course Materials](https://davidstarsilver.wordpress.com/teaching/)
 
 ## Deep Learning
 - Goodfellow, Bengio, Courville – *Deep Learning*
