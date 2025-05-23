@@ -36,3 +36,7 @@ Senna - Principles of Race Driving (Risk/Psychology)<br>
 [Bayesian Epistemology - Philosophy](https://plato.stanford.edu/entries/epistemology-bayesian/)<br>
 Lewis - Liar's Poker <br>
 Lewis - Flash Boys <br>
+
+# Extra
+GAAP/IFRS
+Basel III vs Basel II (Vasicek model)
