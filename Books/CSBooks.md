@@ -1,5 +1,5 @@
 # Syntax
-- [BNF (Backus–Naur Form)](https://en.wikipedia.org/wiki/Backus–Naur_form), ABNF/EBNF
+- [EBNF (Extended Backus–Naur Form)](https://en.wikipedia.org/wiki/Extended_Backus–Naur_form)
 
 # Programming
 - Kernighan – *The C Programming Language*, 2nd ed
