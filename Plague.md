@@ -37,7 +37,7 @@ BSc Gender Studies <br>
 
 # Brainless<br>
 
-Vanguard (Fidelity etc)<br>
+Vanguard (& Fidelity etc)<br>
 Blackrock<br>
 PIMCO<br>
 
