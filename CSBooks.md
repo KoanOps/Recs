@@ -21,6 +21,9 @@ McNamara - Technical Aspects of Data Communications
 # x86
 Shanley - Protected Mode Software Architecture
 
+# Information Theory
+Cover - Elements of Information Theory
+
 # Algorithms
 Dasgupta, Papadimitriou, Vazira - Algorithms<br>
 Kleinberg - Algorithm Design<br>
@@ -41,6 +44,3 @@ Goodfellow - Deep Learning
 # LLM
 [Liang & Hashimoto - LLM Lecture Videos](https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&si=DA-PEKue0Uzsp1jN)<br>
 [Liang & Hashimoto - LLM Course Materials](https://stanford-cs336.github.io/spring2024/index.html)<br>
-
-# Information Theory
-Cover - Elements of Information Theory
