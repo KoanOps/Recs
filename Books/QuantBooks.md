@@ -21,7 +21,7 @@
 
 # Statistical Methods
 ## Statistical Learning
-- [Hastie – *Introduction to Statistical Learning* (ISLR)](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
+- [Hastie – *Introduction to Statistical Learning*](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
 - [Hastie – *The Elements of Statistical Learning*](https://hastie.su.domains/ElemStatLearn/)
 
 ## Statistical Inference
