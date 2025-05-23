@@ -1,4 +1,5 @@
 # Fundamental Analysis
+Any Intro to Accounting for financial language
 Graham - Security Analysis 2nd ed ("Deep Value")<br>
 [BH Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) ("Deep Value", then Quality)<br>
 SEC Filings - start with 10Q/10Ks (Basics)<br>
