@@ -8,7 +8,7 @@
 - Kernighan – *The C Programming Language*, 2nd ed
 
 ## Practice Paths
-- Convert your large project you already know from another language into C *(easiest path, C lib is small on UNIX)*
+- Convert your large project you already know from another language into C *(easiest path, UNIX preferred, C lib is small)*
 - Read a lot of C code, modify it, observe the effect *(easier path if you have good memory)*
 - Take a Microprocessor Applications course to understand Assembly, and its connection to C *(harder path)*
 - Write a lot of C code from scratch *(hardest path)*
