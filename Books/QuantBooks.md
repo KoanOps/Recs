@@ -12,7 +12,7 @@
 - Halmos – *Measure Theory*
 
 # Probability Theory
-- Feller – *An Introduction to Probability Theory and Its Applications* (Vol I–III)
+- Feller – *An Introduction to Probability Theory and Its Applications* (Vol I-III)
 - Klenke – *Probability Theory: A Comprehensive Course*
 - Billingsley – *Probability and Measure*
 
