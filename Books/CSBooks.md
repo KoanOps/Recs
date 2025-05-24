@@ -1,5 +1,5 @@
 # Programming
-If you have **no prior programming exposure** & **no support**, start with **Python** - closest to English.
+If you have **no prior programming exposure** & **no support**, start with **Python** - closest to English. Unless you are planning for web/mobile/embedded systems dev
 ## Python Intro
 - Sweigart - *Automate the Boring Stuff with Python: Practical Programming for Total Beginners*
 ---
