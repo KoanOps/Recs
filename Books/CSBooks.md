@@ -1,5 +1,5 @@
 # Programming
-**Assumption**: If you have no prior programming exposure & **no support**, start with **Python** - closest to English.
+**Assumption**: If you have **no prior programming exposure** & **no support**, start with **Python** - closest to English.
 ## Python Intro
 - Sweigart - *Automate the Boring Stuff with Python: Practical Programming for Total Beginners*
 ---
