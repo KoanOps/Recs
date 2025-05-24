@@ -6,7 +6,7 @@ If you have **no prior programming exposure** & **no support**, start with **Pyt
 ## Syntax
 - [EBNF (Extended Backus–Naur Form)](https://en.wikipedia.org/wiki/Extended_Backus–Naur_form)
 
-## Programming
+## C Programming
 - Kernighan – *The C Programming Language*, 2nd ed
 
 ## Practice Paths
