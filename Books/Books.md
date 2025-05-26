@@ -13,9 +13,12 @@
 - Fabozzi – *The Handbook of Fixed Income Securities*
 
 # Thinking
-## Philosophy / Psychology
+## Philosophy / Psychology (in sequential order)
 - Kaufman – *Poor Charlie's Almanack*
 - Dalio – *Principles*
+- Musashi - *Book of Five Rings*
+- Munenori - *The Life Giving Sword*
+- Lowry - *Autumn Lightning: The Training of an American Samurai*
 - Kahneman – *Thinking, Fast and Slow*
 - Thaler – *Nudge*
 
