@@ -32,7 +32,7 @@ If you are aiming for data roles, have **no prior programming exposure**, & **no
 - Cover – *Elements of Information Theory*
 
 # Algorithms
-- Dasgupta, Papadimitriou, Vazirani – *Algorithms*
+- DPV – *Algorithms*
 - Kleinberg – *Algorithm Design*
 - CLRS - *Introduction to Algorithms*
 - [Nelson – Advanced Algorithms Course](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
