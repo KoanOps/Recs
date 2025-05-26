@@ -1,5 +1,6 @@
 # Programming
-If you have **no prior programming exposure** & **no support**, start with **Python** - closest to English. Unless you are planning for web/mobile/embedded systems dev.
+If you are aiming for data roles, have **no prior programming exposure**, & **no support**, start with **Python** - closest to English. 
+
 ## Python Intro
 - Sweigart - *Automate the Boring Stuff with Python: Practical Programming for Total Beginners*
 ---
