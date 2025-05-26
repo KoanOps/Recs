@@ -12,9 +12,9 @@
 - Halmos – *Measure Theory*
 
 # Probability Theory
+- Billingsley – *Probability and Measure*
 - Feller – *An Introduction to Probability Theory and Its Applications* (Vol I-III)
 - Klenke – *Probability Theory: A Comprehensive Course*
-- Billingsley – *Probability and Measure*
 
 # Extreme Value Theory
 - Leadbetter – *Extremes and Random Properties of Random Sequences and Processes*
@@ -30,7 +30,6 @@
 # Bayesian
 - Hoff – *A First Course in Bayesian Statistical Methods*
 - Lee – *Bayesian Statistics: An Introduction*
-- Greenberg – *Introduction to Bayesian Econometrics*
 - [Gelman – *Bayesian Data Analysis*](https://sites.stat.columbia.edu/gelman/book/)
 
 # Differential Equations
@@ -79,8 +78,9 @@
 - Brigo – *Counterparty Credit Risk, Collateral and Funding*
 
 # Econometrics
-- Campbell & Chung-Lo - *The Econometrics of Financial Markets*
 - Asteriou & Hall – *Applied Econometrics* **(Ross Rec)**
+- Campbell & Chung-Lo - *The Econometrics of Financial Markets*
+- Greenberg – *Introduction to Bayesian Econometrics*
 
 # Intro to Financial C++
 - [C++ Intro for Finance (Course)](https://nms.kcl.ac.uk/john.armstrong/courses/courses.html)
