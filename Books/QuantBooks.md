@@ -57,9 +57,9 @@
 
 # Stochastic Calculus
 - Baxter – *Financial Calculus*  **(Ross Rec)**
-- Malliavin & Thalmaier – *Stochastic Calculus of Variations in Mathematical Finance*
 - Shreve – *Stochastic Calculus for Finance* (Vol I & II)
 - Cont & Tankov – *Financial Modeling with Jump Processes*
+- Malliavin & Thalmaier – *Stochastic Calculus of Variations in Mathematical Finance*
 - Feynman – *Quantum Mechanics and Path Integrals* *(Path-integral view of stochastic processes)*
 
 # Risk Theory
@@ -79,8 +79,8 @@
 
 # Econometrics
 - Asteriou & Hall – *Applied Econometrics* **(Ross Rec)**
-- Campbell & Chung-Lo - *The Econometrics of Financial Markets*
 - Greenberg – *Introduction to Bayesian Econometrics*
+- Campbell & Chung-Lo - *The Econometrics of Financial Markets*
 
 # Intro to Financial C++
 - [C++ Intro for Finance (Course)](https://nms.kcl.ac.uk/john.armstrong/courses/courses.html)
