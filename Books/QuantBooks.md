@@ -57,22 +57,33 @@
 - Kijima – *Stochastic Processes with Applications to Finance*
 
 # Stochastic Calculus
+- Baxter – *Financial Calculus*  **(Ross Rec)**
 - Malliavin & Thalmaier – *Stochastic Calculus of Variations in Mathematical Finance*
 - Shreve – *Stochastic Calculus for Finance* (Vol I & II)
+- Cont & Tankov – *Financial Modeling with Jump Processes*
+- Feynman – *Quantum Mechanics and Path Integrals* *(Path-integral view of stochastic processes)*
 
 # Risk Theory
 - Klugman – *Loss Models: From Data to Decisions*
+- Meucci – *Risk and Asset Allocation*
+
+# Portfolio Management
+- Isichenko – *Quantitative Portfolio Management*
+- Grinold & Kahn – *Active Portfolio Management*
 
 # Derivatives
 - Passarelli – *Trading Option Greeks* (Very Low Math)
 - Blyth – *Introduction to Quantitative Finance*
 - Hull – *Options, Futures and Other Derivatives*
 - Hafner – *Stochastic Implied Volatility* (Volatility Smiles)
+- Brigo – *Counterparty Credit Risk, Collateral and Funding*
 
-# Ross Recs
-- Baxter – *Financial Calculus*
-- Asteriou & Hall – *Applied Econometrics*
-- [Risk.net](https://www.risk.net) (has some halfway decent stuff sometimes)
+# Econometrics
+- Campbell & Chung-Lo - *The Econometrics of Financial Markets*
+- Asteriou & Hall – *Applied Econometrics* **(Ross Rec)**
 
 # Intro to Financial C++
 - [C++ Intro for Finance (Course)](https://nms.kcl.ac.uk/john.armstrong/courses/courses.html)
+
+# Periodicals/Extra
+[Risk.net](https://www.risk.net) (has some halfway decent stuff sometimes) **Ross Rec**
