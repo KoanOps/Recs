@@ -86,4 +86,4 @@
 - [C++ Intro for Finance (Course)](https://nms.kcl.ac.uk/john.armstrong/courses/courses.html)
 
 # Periodicals/Extra
-[Risk.net](https://www.risk.net) (has some halfway decent stuff sometimes) **Ross Rec**
+[Risk.net](https://www.risk.net) - has some halfway decent stuff sometimes **(Ross Rec)**
