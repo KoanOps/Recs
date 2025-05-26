@@ -1,5 +1,5 @@
 # Programming
-If you are aiming for data roles, have **no prior programming exposure**, & **no support**, start with **Python** - closest to English. 
+If you are aiming for data roles, have **no prior programming exposure**, & **no support**, start with **Python** - closest to English.
 
 ## Python Intro
 - Sweigart - *Automate the Boring Stuff with Python: Practical Programming for Total Beginners*
@@ -34,6 +34,7 @@ If you are aiming for data roles, have **no prior programming exposure**, & **no
 # Algorithms
 - Dasgupta, Papadimitriou, Vazirani – *Algorithms*
 - Kleinberg – *Algorithm Design*
+- CLRS - *Introduction to Algorithms*
 - [Nelson – Advanced Algorithms Course](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
 - Knuth – *The Art of Computer Programming*
 
