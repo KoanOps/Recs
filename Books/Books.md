@@ -13,7 +13,7 @@
 - Fabozzi – *The Handbook of Fixed Income Securities*
 
 # Thinking
-## Philosophy / Psychology (in sequential order)
+## Philosophy / Psychology (rec to read in sequential order)
 - Kaufman – *Poor Charlie's Almanack*
 - Dalio – *Principles*
 - Musashi - *Book of Five Rings*
