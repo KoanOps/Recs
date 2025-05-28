@@ -84,6 +84,7 @@
 
 # Intro to Financial C++
 - [C++ Intro for Finance (Course)](https://nms.kcl.ac.uk/john.armstrong/courses/courses.html)
+- Silahian - *C++ High Performance for Financial Systems*
 
 # Periodicals/Extra
 [Risk.net](https://www.risk.net) - has some halfway decent stuff sometimes **(Ross Rec)**
