@@ -15,7 +15,7 @@ Making the model run fast, accurate, and consistent you must spend a lot of time
 	•	Include related or background market data - context is essential for realistic modeling.<br>
 5.	Iterative evaluation<br>
 	•	Cleaning and evaluation should be repeated after each pass to ensure the dataset’s reliability and completeness.<br>
-6. 
+
 
 # Caveat<br>
 Please note this is meant to be introductory. You know by knowing what you're doing, knowing where to look, how to ascribe soundness to the data and so on - expertise is from learned experience. Look at the data, understand the market/business. Dive into how and where the data was created, what all the codes mean, puzzle match, identify patterns, fix those patterns, and bring that dataset into a more uniform set. <br> 
