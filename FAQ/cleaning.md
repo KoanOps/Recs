@@ -19,6 +19,8 @@ Making your model run fast, accurate, and consistent - you must spend a lot of t
 # Caveat<br>
 Please note this is meant to be introductory. Expertise is from learned experience - know by knowing what you're doing, knowing where to look, how to ascribe soundness to the data, and so on. Look at the data, understand the market/business. Dive into how and where the data was created, what all the codes mean, puzzle match, identify patterns, fix those patterns, and bring that dataset into a more uniform set. <br> 
 
-As an example, 5000 lines of messy, inconsistent, unvalidated mortgage data with complex inter-dependencies may take 50-500 manhours, depending on the complexity. Automation as a substitution for due diligence tends to not go well. [1] Automation of data cleanup can far exceed the manhours of **just working manually**.<br>
+As an example, 5000 lines of messy, inconsistent, unvalidated mortgage data with complex inter-dependencies may take 50-500 manhours, depending on the complexity. <br> 
+
+A word of caution - you may be tempted for an "automated" solution. Automation of data cleanup in this example can far exceed the manhours of **just working manually**. Automation as a substitution for due diligence tends to not go well. [1] <br>
 
 [1] https://xkcd.com/1319/
