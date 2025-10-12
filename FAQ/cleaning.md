@@ -21,6 +21,6 @@ Please note this is meant to be introductory. Expertise is from learned experien
 
 As an example, 5000 lines of messy, inconsistent, unvalidated mortgage data with complex inter-dependencies may take 50-500 manhours, depending on the complexity. <br> 
 
-A word of caution - you may be tempted to do an "automated" solution. This will depend on the dataset and the approach. Automation of data cleanup in this example can far exceed the manhours of **just working manually**. Automation as a substitution for due diligence tends to not go well. [1] <br>
+A word of caution - you may be tempted to do an "automated" solution. This will depend on the dataset and the approach. Automation as a substitution for due diligence tends to not go well. Automation of data cleanup in this example can far exceed the manhours of **just working manually**. [1] <br>
 
 [1] https://xkcd.com/1319/
