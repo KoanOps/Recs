@@ -17,6 +17,7 @@
 - [What models work vs doesn't work?](FAQ/WhatWorks.md)
 - [What to avoid like the plague?](FAQ/Plague.md)
 - [What can't be learned in books?](FAQ/Limits.md)
+- [Data Cleaning Tips](FAQ/cleaning.md)
 
 ---
 
