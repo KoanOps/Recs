@@ -1,9 +1,9 @@
 # Data Cleaning Tips<br>
-Making the model run fast, accurate, and consistent you must spend a lot of time cleaning data. The model's validity is judged by how well it matches live market data.<br>
+Making your model run fast, accurate, and consistent - you must spend a lot of time cleaning data. Your model's validity is judged by how well it matches live market data.<br>
 
 1.	Cleaning is multi-stage.<br>
 	•	Start with obvious issues (like missing or incorrect entries).<br>
-	•	Then do finer passes to catch subtle problems until the data is fully usable.<br>
+	•	Then, do finer passes to catch subtle problems until the data is fully usable.<br>
 2.	Look beyond just missing values<br>
 	•	Missing or nulls are only the first layer of problems.<br>
 	•	Data providers might interpolate missing values or record prices in thin markets (low-liquidity, unreliable data).<br>
@@ -19,6 +19,6 @@ Making the model run fast, accurate, and consistent you must spend a lot of time
 # Caveat<br>
 Please note this is meant to be introductory. Expertise is from learned experience - know by knowing what you're doing, knowing where to look, how to ascribe soundness to the data, and so on. Look at the data, understand the market/business. Dive into how and where the data was created, what all the codes mean, puzzle match, identify patterns, fix those patterns, and bring that dataset into a more uniform set. <br> 
 
-As an example, 5000 lines of messy, inconsistent, unvalidated data in mortgages with complex inter-dependencies may take 50-500 manhours depending on the complexity. Automation as a substitution for due diligence tends to not go well. [1] Automation of data cleanup can far exceed the manhours of **just working manually**.<br>
+As an example, 5000 lines of messy, inconsistent, unvalidated mortgage data with complex inter-dependencies may take 50-500 manhours, depending on the complexity. Automation as a substitution for due diligence tends to not go well. [1] Automation of data cleanup can far exceed the manhours of **just working manually**.<br>
 
 [1] https://xkcd.com/1319/
