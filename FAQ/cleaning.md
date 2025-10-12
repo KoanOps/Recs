@@ -9,17 +9,16 @@ Making the model run fast, accurate, and consistent you must spend a lot of time
 	•	Data providers might interpolate missing values or record prices in thin markets (low-liquidity, unreliable data).<br>
 	•	These require deeper scrutiny.<br>
 3.	Clean according to the purpose of the data<br>
-	•	Data should be “useful for purpose.” Cleaning should focus on the intended modeling or analysis goal.<br>
+	•	Cleaning should focus on the intended modeling or analysis goal.<br>
 4.	Include the broader market context<br>
 	•	Don’t only clean or use the data series you’re directly studying. People tend to use data they are interested in.<br>
-	•	Include related or background market data - context is essential for realistic modeling.<br>
+	•	Include related or background market data, context is essential for realistic modeling.<br>
 5.	Iterative evaluation<br>
 	•	Cleaning and evaluation should be repeated after each pass to ensure the dataset’s reliability and completeness.<br>
 
-
 # Caveat<br>
-Please note this is meant to be introductory. You know by knowing what you're doing, knowing where to look, how to ascribe soundness to the data and so on - expertise is from learned experience. Look at the data, understand the market/business. Dive into how and where the data was created, what all the codes mean, puzzle match, identify patterns, fix those patterns, and bring that dataset into a more uniform set. <br> 
+Please note this is meant to be introductory. Expertise is from learned experience - know by knowing what you're doing, knowing where to look, how to ascribe soundness to the data, and so on. Look at the data, understand the market/business. Dive into how and where the data was created, what all the codes mean, puzzle match, identify patterns, fix those patterns, and bring that dataset into a more uniform set. <br> 
 
-As an example, 5000 lines of messy, inconsistent, unvalidated data in mortgages with complex dependencies may take 50-500 manhours depending on the complexity. Automation as a substitution for due diligence tends to not go well. [1] Automation of data cleanup can far exceed the manhours of **just working manually**.<br>
+As an example, 5000 lines of messy, inconsistent, unvalidated data in mortgages with complex inter-dependencies may take 50-500 manhours depending on the complexity. Automation as a substitution for due diligence tends to not go well. [1] Automation of data cleanup can far exceed the manhours of **just working manually**.<br>
 
 [1] https://xkcd.com/1319/
