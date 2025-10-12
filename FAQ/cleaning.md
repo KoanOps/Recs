@@ -1,5 +1,5 @@
 # Data Cleaning Tips<br>
-Data cleaning is often seen as "dirty work". But the "dirty work" & consistently taking time to replicate interesting papers is absolutely essential to growth in modeling skill. Also, data cleaning is maybe ~90% of the actual manhours for any modeling work. If you're spending little to no time, you're probably making a mistake. Making your model run fast, accurate, and consistent - you must spend a lot of time cleaning data. Your model's validity is judged by how well it matches live market data.<br>
+Data cleaning is often seen as "dirty work". But the "dirty work", along with consistently taking time to build knowledge by replicating what you read in interesting papers, is absolutely essential to growth in modeling skill. Also, data cleaning is maybe ~90% of the actual manhours for any modeling work. If you're spending little to no time, you're probably making a mistake. Making your model run fast, accurate, and consistent - you must spend a lot of time cleaning data. Your model's validity is judged by how well it matches live market data.<br>
 
 1.	Cleaning is multi-stage.<br>
 	•	Start with obvious issues i.e. missing or incorrect entries<br>
