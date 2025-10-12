@@ -1,4 +1,4 @@
-Data Cleaning Tips<br>
+#Data Cleaning Tips<br>
 Making the model run fast, accurate, and consistent you must spend a lot of time cleaning data. The model's validity is judged by how well it matches live market data.<br>
 
 1.	Cleaning is multi-stage.<br>
