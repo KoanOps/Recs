@@ -1,5 +1,5 @@
 # Data Cleaning Tips<br>
-Making your model run fast, accurate, and consistent - you must spend a lot of time cleaning data. Your model's validity is judged by how well it matches live market data.<br>
+Data cleaning is not the sexiest job and often seen as "dirty work". But it is absolutely essential, maybe ~90% of the actual manhours. Making your model run fast, accurate, and consistent - you must spend a lot of time cleaning data. Your model's validity is judged by how well it matches live market data.<br>
 
 1.	Cleaning is multi-stage.<br>
 	•	Start with obvious issues i.e. missing or incorrect entries<br>
@@ -7,7 +7,7 @@ Making your model run fast, accurate, and consistent - you must spend a lot of t
 2.	Look beyond just missing values<br>
 	•	Missing or nulls are only the first layer of problems<br>
 	•	Data providers might interpolate missing values or record prices in thin markets i.e. low-liquidity, unreliable data<br>
-	•	These require deeper scrutiny<br>
+	•	This requires deeper scrutiny<br>
 3.	Clean according to the purpose of the data<br>
 	•	Cleaning should focus on the intended modeling or analysis goal<br>
 4.	Include the broader market context<br>
