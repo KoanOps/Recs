@@ -11,3 +11,13 @@
 
 - [Toolkit of Trading Strategies – Systematic Investor Toolbox (SIT)](https://github.com/systematicinvestor/SIT)  
   R-based framework for backtesting systematic strats.
+
+# Link
+
+https://marketchameleon.com/Overview/DPZ/Stock-Price-Action/Session-Summary-By-Trader-Size
+
+https://stockanalysis.com/stocks/dpz/history/
+
+https://www.alphaquery.com/stock/DPZ/earnings-history
+
+https://www.earningswhispers.com/
