@@ -16,7 +16,7 @@
 ## Philosophy / Psychology (rec to read in sequential order)
 - Kaufman – *Poor Charlie's Almanack*
 - Dalio – *Principles*
-- Musashi - *Book of Five Rings*
+- Musashi - *Book of Five Rings* (Alex Bennett translation)
 - Munenori - *The Life Giving Sword*
 - Lowry - *Autumn Lightning: The Training of an American Samurai*
 - Kahneman – *Thinking, Fast and Slow*
