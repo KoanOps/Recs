@@ -17,3 +17,12 @@
 - [SABR Calibration in Python](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725485)
 
 - [The Forecasting Power of Short-Term Options](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3622433)
+
+# Richard Recs
+
+- Statistical Rethinking by McElreath (lecture series)
+- https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full
+- https://www.jstor.org/stable/271063?origin=crossref
+- https://arxiv.org/abs/1701.02434
+- https://cocosci.princeton.edu/tom/papers/tutorial.pdf
+- https://cocosci.princeton.edu/tom/bayestutorial.ppt
