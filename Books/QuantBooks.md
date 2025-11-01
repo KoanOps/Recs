@@ -28,10 +28,10 @@
 - [Casella & Berger – *Statistical Inference*](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf)
 
 # Bayesian
-- Introduction to Statistics and Probability from a Bayesian Viewpoint, Vol 1 & 2 by Lindley 
+- Introduction to Statistics and Probability from a Bayesian Viewpoint, Vol 1 & 2 by Lindley
 - Hoff – *A First Course in Bayesian Statistical Methods*
 - Lee – *Bayesian Statistics: An Introduction*
-- [Gelman – *Bayesian Data Analysis*](https://sites.stat.columbia.edu/gelman/book/) - some confusion regarding calibration of distractions. 
+- [Gelman – *Bayesian Data Analysis*](https://sites.stat.columbia.edu/gelman/book/) - some confusion regarding calibration of distractions - blurring of bayesian & frequentist. 
 - Statistical Rethinking by McElreath
 
 Papers & ppt: 
