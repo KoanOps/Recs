@@ -17,6 +17,7 @@ Scraping list (rolling basis with scheduler):
 - ETF rebalancing (iShares, WisdomTree, etc)  
 - Finviz (insider buy/sell)  
 - Unusual activity sites  
+- marketchameleon.com
 
 - US/EU financial institutions – amortized vs fair value risk (AC + FV)  
 - UK, GER, ESP loan banks – VaR table, LGBM forecast, CR366, cap constraints, RWAs, short-term debt issuance  
@@ -27,7 +28,7 @@ Scraping list (rolling basis with scheduler):
 - Reddit WSB  
 - CoinMarketCap  
 - StockTwits  
-- NLP scraper to news
+- NLP scraper to news 
 
 # Code Corr Matrix – Rolling Vector t+1
 
