@@ -36,11 +36,11 @@
 - Contemporary Bayesian Econometrics and Statistics by Geweke. 
 
 Papers & ppt: 
-https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full
-https://www.jstor.org/stable/271063?origin=crossref
-https://arxiv.org/abs/1701.02434
-https://cocosci.princeton.edu/tom/papers/tutorial.pdf
-https://cocosci.princeton.edu/tom/bayestutorial.ppt
+- https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full
+- https://www.jstor.org/stable/271063?origin=crossref
+- https://arxiv.org/abs/1701.02434
+- https://cocosci.princeton.edu/tom/papers/tutorial.pdf
+- https://cocosci.princeton.edu/tom/bayestutorial.ppt
 
 # Differential Equations
 - Braun – *Differential Equations and Their Applications*
