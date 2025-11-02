@@ -55,3 +55,21 @@ If you are aiming for data roles, have **no prior programming exposure**, & **no
 ## Large Language Models
 - [Liang & Hashimoto – Lecture Videos](https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 - [Liang & Hashimoto – Course Materials](https://stanford-cs336.github.io/spring2024/index.html)
+
+## Formal Methods
+Loom lean verselab
+Avigad 
+Satnam icfp
+Kontorocich
+Loow  ITP hardware
+Pypantograph
+Drexel Chris
+Anima anandkumar
+Neural theorem proving
+Language models isabelle proofs
+https://www.cogna.co/
+Morphlabs, Math inc
+Axiomise
+Harmonic
+https://caseyhandmer.wordpress.com/2025/10/31/nasas-orion-space-capsule-is-flaming-garbage/
+https://github.com/google-research/dex-lang
