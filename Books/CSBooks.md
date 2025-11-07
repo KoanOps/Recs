@@ -62,15 +62,16 @@ If you are aiming for data roles, have **no prior programming exposure**, & **no
 - [Avigad](https://www.andrew.cmu.edu/user/avigad/Talks/oxford_formal_methods.pdf)
 - [Satnam ICFP](https://icfp25.sigplan.org/profile/satnamsingh)
 - [Kontorovich](https://github.com/AlexKontorovich)
-- Loow ITP hardware
+- [Loow, ITP hardware](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/hipeds-centre/andreasloow.pdf)
 - [Pypantograph](https://github.com/stanford-centaur/PyPantograph)
 - Drexel Chris
-- Anima anandkumar
-- Neural theorem proving
-- Language models isabelle proofs
-- https://www.cogna.co/
-- Morphlabs, Math inc
-- https://Axiomise.com
-- Harmonic
-- https://caseyhandmer.wordpress.com/2025/10/31/nasas-orion-space-capsule-is-flaming-garbage/
-- https://github.com/google-research/dex-lang
+- [Anima anandkumar](https://leandojo.org)
+- [Neural theorem proving](https://arxiv.org/html/2504.17017v1)
+- [Language models ISAbelle proofs](https://aitp-conference.org/2021/abstract/paper_17.pdf)
+- [Cogna](https://www.cogna.co/)
+- [Morphlabs, Math inc](https://www.math.inc/gauss)
+- [Axiomise](https://Axiomise.com)
+- [Harmonic](https://harmonic.fun)
+- [Casey Handmer](https://caseyhandmer.wordpress.com/2025/10/31/nasas-orion-space-capsule-is-flaming-garbage/)
+- [Google Research - Dex Lang](https://github.com/google-research/dex-lang)
+- [Deepseek Prover V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
