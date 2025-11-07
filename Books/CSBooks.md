@@ -58,12 +58,12 @@ If you are aiming for data roles, have **no prior programming exposure**, & **no
 
 ## Formal Methods
 - [Lean](https://lean-lang.org/learn/)
-- [Loom](https://github.com/verse-lab/loom)
+- [Loom - Verse Labs](https://github.com/verse-lab/loom)
 - [Avigad](https://www.andrew.cmu.edu/user/avigad/Talks/oxford_formal_methods.pdf)
-- Satnam icfp
-- Kontorocich
+- [Satnam ICFP](https://icfp25.sigplan.org/profile/satnamsingh)
+- [Kontorovich](https://github.com/AlexKontorovich)
 - Loow ITP hardware
-- Pypantograph
+- [Pypantograph](https://github.com/stanford-centaur/PyPantograph)
 - Drexel Chris
 - Anima anandkumar
 - Neural theorem proving
